@@ -72,10 +72,8 @@ PCでは以下のようになります。<br>
 【URLのリンクプレビューを隠したい時の方法】<br>
 YouTube動画やWebマンガなどでネタバレを隠したい場合、URLを< >で囲むとURLのプレビューが出なくなります。<br>
 【プレビューが出る場合】<br>
-https://www.gizmodo.jp/2023/05/rapid-security-responses.html<br>
 `https://www.gizmodo.jp/2023/05/rapid-security-responses.html`<br>
 【プレビューが出ない場合】<br>
-https://www.gizmodo.jp/2023/04/how-to-check-amount-of-iphone-mobile-data.html<br>
 `<https://www.gizmodo.jp/2023/04/how-to-check-amount-of-iphone-mobile-data.html>`<br>
 
 <img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/assets/20723919/32aa2b89-5a74-4b7f-b492-d802a7e89d72" width="700">
