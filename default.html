@@ -7,16 +7,10 @@
     <meta property="og:title" content="{{ page.title }} - GIZOMODO WOODS">
     <meta property="og:site_name" content="GIZMODO WOODS">
     <meta itemprop="name" content="GIZOMODO WOODS">
-    {% if page.description %}
     <meta property="og:description" content="{{ page.description }}">
-    {% else %}
     <meta property="og:description" content="GIZOMODO WOODS">
-    {% endif %}
-    {% if page.preview %}
     <meta property="og:image" content="{{ page.preview }}" />
-    {% else %}
     <meta property="og:image" content="">
-    {% endif %}
     <base href="{{site.github.url}}" charset="utf-8">
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,10 +18,8 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.scss?v=' | append: site.github.build_revision | relative_url }}">
     <meta property="og:image">
     <meta name="note:card" content="summary_large_image">
-   
-    {% seo %}
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 
 <body>
