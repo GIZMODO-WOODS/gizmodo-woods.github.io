@@ -13,7 +13,7 @@ title: Discordの使い方 - GIZMODO WOODS
 
 <img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/assets/20723919/e63da11f-fb52-469f-95c5-626e2028d990" width="700">
 
-![image](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/assets/20723919/257005ec-5185-43cc-a1dc-8a3b2f759822)
+![image](https://raw.githubusercontent.com/GIZMODO-WOODS/gizmodo-woods.github.io/main/images/discord-onboard.webp)
 
 ### フォーラム
 
