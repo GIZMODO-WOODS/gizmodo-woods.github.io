@@ -1,5 +1,0 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
-title: <a href="https://gizmodo-woods.github.io"><span style="color:white">GIZMODO WOODS</span></a>
-description: GIZOMODO WOODS
