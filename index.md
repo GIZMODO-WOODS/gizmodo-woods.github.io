@@ -11,9 +11,7 @@ title: Discordの使い方 - GIZMODO WOODS
 入室後、オンボーディングを最後まで完了させてください。<br>
 完了しないとボイスチャンネルへの入室、テキストチャンネルでの発言ができない可能性があります。 
 
-<img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/assets/20723919/e63da11f-fb52-469f-95c5-626e2028d990" width="700">
-
-![image](https://raw.githubusercontent.com/GIZMODO-WOODS/gizmodo-woods.github.io/main/images/243041833-e63da11f-fb52-469f-95c5-626e2028d990.png)
+<img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/raw/main/images/243041833-e63da11f-fb52-469f-95c5-626e2028d990.webp" width="700">
 
 ### フォーラム
 
@@ -42,7 +40,7 @@ Apple Eventや⁠WWDC、Google I/O、Galaxy Unpackedなどについて話しま�
 フォローしていないフォーラム内スレッド(話題)を開き、「フォローする」を押すとフォローできます。<br>
 もう一度同じ操作をするとアンフォローになります。
 
-<img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/assets/20723919/0e876b38-f758-4e5d-ab9d-5a4a32d8ad9c" height="500">
+<img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/raw/main/images/243039050-0e876b38-f758-4e5d-ab9d-5a4a32d8ad9c.webp" height="500">
 
 ### フォーラムのクローズ
 
@@ -51,21 +49,21 @@ Apple Eventや⁠WWDC、Google I/O、Galaxy Unpackedなどについて話しま�
 "投稿をクローズ"をタップもしくはクリックして完了です。<br>
 なおクローズした投稿も見ることはできます。スレ主なら復活させることもできます。 
 
-<img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/assets/20723919/3bb95c6e-20de-4fa2-af75-7062f45e614d" width="600">
+<img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/raw/main/images/243044585-3bb95c6e-20de-4fa2-af75-7062f45e614d.webp" width="600">
 
 ### ボイスチャンネル
 
 【ボイスチャンネルのテキストチャットを見る・書き込む方法】<br>
 スマホでは画面上の吹き出しマークをタッチするとできます。
 
-<img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/assets/20723919/04670276-309a-4389-a845-a2a0ce6a23bc" height="500">
+<img src="https://raw.githubusercontent.com/GIZMODO-WOODS/gizmodo-woods.github.io/main/images/phone-display.webp" height="500">
 
 【ボイスチャンネルのテキストチャットを見る・書き込む方法】<br>
 PCでは以下のようになります。<br>
 1. チャンネル一覧の場合：マウスカーソルを載せて現れる吹き出しアイコンをクリックする
 2. 配信画面の場合：画面の右上にある吹き出しアイコンをクリックする
 
-<img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/assets/20723919/6206a3db-d36c-444d-845d-d69dc351c9b3" width="700">
+<img src="https://raw.githubusercontent.com/GIZMODO-WOODS/gizmodo-woods.github.io/main/images/243038252-6206a3db-d36c-444d-845d-d69dc351c9b3.webp" width="700">
 
 ### テキストチャンネル
 
@@ -76,7 +74,7 @@ YouTube動画やWebマンガなどでネタバレを隠したい場合、URLを<
 【プレビューが出ない場合】<br>
 `<https://www.gizmodo.jp/2023/04/how-to-check-amount-of-iphone-mobile-data.html>`<br>
 
-<img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/assets/20723919/32aa2b89-5a74-4b7f-b492-d802a7e89d72" width="700">
+<img src="https://raw.githubusercontent.com/GIZMODO-WOODS/gizmodo-woods.github.io/main/images/243042434-32aa2b89-5a74-4b7f-b492-d802a7e89d72.webp" width="700">
 
 ### イベント
 
@@ -88,4 +86,4 @@ GIZMODO WOODSのモデレーターがイベントを設定することがあり�
 ぜひイベントリンクを友達と共有して、イベントを一緒に楽しみましょう！<br>
 (GIZMODO WOODSで発行したイベントリンクには招待機能があるため、共有する際は共有先のルールなどをご確認ください。それによる過失等は共有者のみにあり、GIZMODO JAPAN及びモデレーターは一切責任を負いません。)
 
-<img src="https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/assets/20723919/d31eb6df-fb88-4ec7-93e2-a7c40372dbbc" width="700">
+<img src="https://raw.githubusercontent.com/GIZMODO-WOODS/gizmodo-woods.github.io/main/images/243046109-d31eb6df-fb88-4ec7-93e2-a7c40372dbbc.webp" width="700">
