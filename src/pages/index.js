@@ -30,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`トップページ`}
+      title={``}
       description="ギズモード・ジャパン公式、ギズモードのファンが集うDiscordコミュニティー。">
       <HomepageHeader />
       <main>
