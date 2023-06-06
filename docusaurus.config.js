@@ -71,8 +71,8 @@ const config = {
         },
         items: [
           {
-            href: 'about-us.html',
             label: '概要',
+            to: 'about-us',
             position: 'left',
           },
           {
@@ -97,7 +97,7 @@ const config = {
             items: [
               {
                 label: 'GIZMODO WOODSとは',
-                to: 'about-us.html',
+                to: 'about-us',
               },
               {
                 label: '参加方法/使い方',
