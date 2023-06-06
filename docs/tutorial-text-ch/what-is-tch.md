@@ -6,7 +6,7 @@ sidebar_position: 1
 
 一番よく使われるチャット用のチャンネルです。よく使われるチャンネルが設定されています。
 
-テキストチャンネルにない話題を雑談チャンネルとは分けて扱いたいときは、[フォーラム](../tutorial-forum/what-is-forum.html)を利用してください。
+テキストチャンネルにない話題を雑談チャンネルとは分けて扱いたいときは、[フォーラムとは？](/docs/tutorial-forum/what-is-forum.md)を利用してください。
 
 ## テキストチャンネル一覧
 
@@ -43,5 +43,5 @@ sidebar_position: 1
 :::note フォーラムについて
 フォーラムは、独立したテキストチャンネルでは扱われないような話題が入っています。
 
-詳しくは「[フォーラムとは？](../tutorial-forum/what-is-forum.html)」を参照してください。
+詳しくは「[フォーラムとは？](/docs/tutorial-forum/what-is-forum.md)」を参照してください。
 :::

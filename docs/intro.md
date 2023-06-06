@@ -6,7 +6,7 @@ sidebar_position: 1
 
 GIZMODO WOODSへようこそ！
 
-GIZMODO WOODSは、ギズモード・ジャパンの読者や視聴者が集う公式のDiscordサーバーです。（[詳細はこちら](https://gizmodo-woods.github.io/about-us.html)）
+GIZMODO WOODSは、ギズモード・ジャパンの読者や視聴者が集う公式のDiscordサーバーです。（[詳細はこちら](/about-us)）
 
 DiscordをダウンロードしてGIZMODO WOODSの輪に加わりましょう！
 
