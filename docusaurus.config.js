@@ -30,6 +30,12 @@ const config = {
   i18n: {
     defaultLocale: 'ja',
     locales: ['ja'],
+    localeConfigs: {
+      ja: {
+        label: '日本語',
+        direction: 'ltr',
+      },
+    },
   },
 
   presets: [
