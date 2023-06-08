@@ -42,14 +42,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/brob/main/',
+            'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/brob/main/',
+            'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
