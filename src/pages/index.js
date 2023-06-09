@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={``}
-      description="ギズモード・ジャパン公式、ギズモードのファンが集うDiscordコミュニティー。">
+      description="ギズモード・ジャパン公式、ギズモードのファンが集うDiscordコミュニティー。Dsicordサーバーへの参加方法や操作方法はこちらをご覧ください。">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

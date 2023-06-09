@@ -140,7 +140,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} GIZMODO WOODS. For more details, visit <a href="about-us" target="_blank">here</a>.`,
+        copyright: `Copyright © ${new Date().getFullYear()} GIZMODO WOODS. For more details, visit <a href="about-us" target="_blank" rel="noopener noreferrer">here</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
