@@ -6,7 +6,7 @@ sidebar_position: 1
 
 本サイトについて、またはDiscordサーバー「GIZMODO WOODS」についてわからない点がある場合は、お気軽にお問合せください。
 
-:::tip ギズモード・ジャパンの記事について
+:::tip ギズモード・ジャパンについて
 
 基本的に、本サイトとDiscordサーバー「GIZMODO WOODS」について対応いたします。
 
