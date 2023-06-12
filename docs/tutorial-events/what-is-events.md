@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # イベントとは？
 
-![イベント](./img/event.png)
+![イベント](./img/event.webp)
 
 GIZMODO WOODSのモデレーターがイベントを設定することがあります。
 

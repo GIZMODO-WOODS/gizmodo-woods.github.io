@@ -18,4 +18,4 @@ Webページなどのリンクを貼り付けた際に、通常はプレビュ�
 
     ```<https://www.gizmodo.jp/2023/04/how-to-check-amount-of-iphone-mobile-data.html>```
 
-<img src={require("./img/hide-preview.png").default} style={{transform:'scale(0.8)'}} />
+<img src={require("./img/hide-preview.webp").default} style={{transform:'scale(0.8)'}} />

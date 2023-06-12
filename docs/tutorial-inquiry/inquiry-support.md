@@ -22,7 +22,7 @@ sidebar_position: 1
 
 そして、「お問い合わせはこちら」をクリック/タップし、お問い合わせチケットを発行します。
 
-<img src={require("./img/PC-Ticket.png").default} style={{transform:'scale(0.9)'}} />
+<img src={require("./img/PC-Ticket.webp").default} style={{transform:'scale(0.9)'}} />
 
 あなた（質問者）と運営（モデレーターと管理者）のみが見れるテキストチャットが作成されます。
 

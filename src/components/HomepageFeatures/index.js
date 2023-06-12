@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'イベント同時視聴',
-    img: './img/top-0.png',
+    img: './img/top-0.webp',
     description: (
       <>
         Apple KeyNoteなどのイベントを、ボイスチャンネルを使ってみんなで楽しもう！
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: '日々の雑談',
-    img: './img/top-1.png',
+    img: './img/top-1.webp',
     description: (
       <>
         ガジェット・テックの話題に限らず、気になるニュースや美味しかった料理などをみんなでシェアしよう！
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: '質問タイム',
-    img: './img/top-2.png',
+    img: './img/top-2.webp',
     description: (
       <>
         ジャンルを問わず、フォーラム機能で気になることを質問してみよう！ねぇねぇ、おすすめの映画教えて！！
