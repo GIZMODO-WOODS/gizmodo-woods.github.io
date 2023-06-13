@@ -32,7 +32,7 @@ DiscordをダウンロードしてGIZMODO WOODSの輪に加わりましょう！
 
 サーバー参加後は以下のような通知設定が表示されます。お好みに合わせて選択してください。
 
-<img src={require("/img/intro-onboarding-0.png").default} style={{transform:'scale(0.6)'}} />
+<img src={require("/img/intro-onboarding-0.webp").default} style={{transform:'scale(0.6)'}} />
 
 その後、利用規約の確認画面が表示されます。よく確認して、チェックを入れて進んでください。
 
@@ -40,10 +40,10 @@ DiscordをダウンロードしてGIZMODO WOODSの輪に加わりましょう！
 サーバー参加後10分は書き込みなどは行えません。落ち着いてゆっくり規約を確認してくださいね♪
 :::
 
-<img src={require("/img/intro-onboarding-1.png").default} style={{transform:'scale(0.6)'}} />
+<img src={require("/img/intro-onboarding-1.webp").default} style={{transform:'scale(0.6)'}} />
 
 参加して10分経過した後は書き込みなどが可能になります。まずは自己紹介をしてみると良いのではないでしょうか。
 
-<img src={require("/img/intro-onboarding-2.png").default} style={{transform:'scale(0.6)'}} />
+<img src={require("/img/intro-onboarding-2.webp").default} style={{transform:'scale(0.6)'}} />
 
 「***準備完了***」と表示されたら、後はルールとマナーを守って楽しみましょう！

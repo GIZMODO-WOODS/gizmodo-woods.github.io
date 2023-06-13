@@ -62,12 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/gizmodo-woods-social-card.png',
+      image: 'img/gizmodo-woods-social-card.webp',
       navbar: {
         title: 'GIZMODO WOODS',
         logo: {
           alt: 'GIZMODO WOODS Logo',
-          src: 'img/gizmodo-woods.png',
+          src: 'img/gizmodo-woods.webp',
         },
         items: [
           {
