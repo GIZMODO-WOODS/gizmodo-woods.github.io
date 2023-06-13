@@ -51,10 +51,6 @@ sidebar_position: 1
 ---
 ```
 
-### 画像の形式
-
-https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/pull/16#issue-1752443235 の通り、画像を追加する際は末尾の拡張子を.webpに変えて軽量化を行ってください。
-
 
 記法についてはウェブ上にたくさん例があるので、そちらを参照してください。（例：[Docusaurusのガイドページ](https://docusaurus.io/docs/markdown-features)）
 
