@@ -20,6 +20,14 @@ sidebar_position: 1
 
 まず、GIZMODO WOODSのカテゴリ「お問い合わせエリア」をクリック/タップし、テキストチャンネル「質問・要望等はこちら！」をクリック/タップします。
 
+:::tip チャンネルが表示されない場合
+
+見れるチャンネルを設定している場合があります。
+
+[チャンネル表示](/docs/tutorial-channel-display/display-setting.md)より、再設定かすべてのチャンネルを表示させてください。
+
+:::
+
 そして、「お問い合わせはこちら」をクリック/タップし、お問い合わせチケットを発行します。
 
 <img src={require("./img/PC-Ticket.webp").default} style={{transform:'scale(0.9)'}} />
