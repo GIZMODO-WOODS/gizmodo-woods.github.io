@@ -14,13 +14,13 @@ sidebar_position: 2
 
 ボイスチャンネルにカーソルを合わせると表示される吹き出しマークか、ボイスチャンネル参加後に右上に表示される吹き出しマークをクリックします。
 
-<img src={require("./img/way-to-see-vc-chat-pc.webp").default} style={{transform:'scale(0.6)'}} />
+<img src={require("./img/way-to-see-vc-chat-pc.webp").default} style={{transform:'scale(0.95)'}} />
 
 ### スマートフォン
 
 ボイスチャンネルをタップし（これだけでは参加はされません）、右上の吹き出しマークをタップします。
 
-<img src={require("./img/way-to-see-vc-chat-sp.webp").default} style={{transform:'scale(0.6)'}} />
+<img src={require("./img/way-to-see-vc-chat-sp.webp").default} style={{transform:'scale(0.95)'}} />
 
 ## 読み上げbotの使い方
 
