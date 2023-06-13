@@ -8,7 +8,7 @@ const FeatureList = [
     img: './img/top-0.webp',
     description: (
       <>
-        Apple KeyNoteなどのイベントを、ボイスチャンネルを使ってみんなで楽しもう！
+        Apple Keynoteなどのイベントを、ボイスチャンネルを使ってみんなで楽しもう！
       </>
     ),
   },
