@@ -30,11 +30,11 @@ sidebar_position: 1
 
 環境によってやり方が異なります。次の画像のどちらかに沿って設定してください。
 
-<img src={require("docs/tutorial-channel-display/img/All-PC-Tab.webp").default} style={{transform:'scale(0.9)'}} />
+<img src={require("./img/All-PC-Tab.webp").default} style={{transform:'scale(0.9)'}} />
 
 もしくは
 
-<img src={require("docs/tutorial-channel-display/img/All-SP.webp").default} style={{transform:'scale(0.9)'}} />
+<img src={require("./img/All-SP.webp").default} style={{transform:'scale(0.9)'}} />
 
 なお、この設定を有効化すると、②見たいチャンネルのみを表示させる方法で設定した内容はすべて無視され、すべてのチャンネルが表示されます。
 
@@ -64,8 +64,8 @@ sidebar_position: 1
 
 環境によってやり方が異なります。次の画像のどちらかに沿って設定してください。
 
-<img src={require("docs/tutorial-channel-display/img/Channel-select-PC-Tab.webp").default} style={{transform:'scale(0.9)'}} />
+<img src={require("./img/Channel-select-PC-Tab.webp").default} style={{transform:'scale(0.9)'}} />
 
 もしくは
 
-<img src={require("docs/tutorial-channel-display/img/Channel-select-SP.webp").default} style={{transform:'scale(0.9)'}} />
+<img src={require("./img/Channel-select-SP.webp").default} style={{transform:'scale(0.9)'}} />
