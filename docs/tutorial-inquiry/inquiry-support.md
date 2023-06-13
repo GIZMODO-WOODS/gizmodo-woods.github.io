@@ -22,9 +22,11 @@ sidebar_position: 1
 
 :::tip チャンネルが表示されない場合
 
-見れるチャンネルを設定している場合があります。
+事前に見れるチャンネルを設定している場合があります。
 
-[チャンネル表示](/docs/tutorial-channel-display/display-setting.md)より、再設定かすべてのチャンネルを表示させてください。
+[チャンネル表示](/docs/tutorial-channel-display/display-setting.md)より、
+
+見れるチャンネルの再設定かすべてのチャンネルを表示をお試しください。
 
 :::
 
