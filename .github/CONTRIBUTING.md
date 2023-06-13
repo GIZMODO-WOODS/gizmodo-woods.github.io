@@ -32,7 +32,7 @@
 ### ファイルの場所
 
 「参加方法/使い方」のページに表示される内容が記載されたファイルは「docs」フォルダ内に格納されています。
-
+### ファイルの記法など
 画像ファイルは、基本的には各セクションのフォルダ内に「img」フォルダがありその中に配置されています。（トップページや参加方法ページの画像のみ、「static/img」内にあります）
 
 トップページやGIZMODO WOODSについてなどのページのファイルは、「src/pages」フォルダ内にあります。
@@ -50,6 +50,11 @@
 sidebar_position: 1
 ---
 ```
+
+### 画像の形式
+
+https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/pull/16#issue-1752443235 の通り、画像を追加する際は末尾の拡張子を.webpに変えて軽量化を行ってください。
+
 
 記法についてはウェブ上にたくさん例があるので、そちらを参照してください。（例：[Docusaurusのガイドページ](https://docusaurus.io/docs/markdown-features)）
 
