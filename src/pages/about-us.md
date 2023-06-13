@@ -24,9 +24,9 @@ Discord公式以外が提供しているアプリ・クライアント、GIZMODO
 
 ### ライセンス
 
-* 本ウェブサイトのコンテンツは、G/O Media Inc.、若しくは株式会社メディアジーン、またはその他第三者が著作権、商標権、その他の知的財産権を有する場合を除き、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の下でライセンスされています。
-* よって、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)でライセンスされないコンテンツを転載、複製、その他著作権等を侵害する行為を禁じます。
-* 本ウェブサイトを構築するために、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の下で[Docusaurus](https://docusaurus.io)が生成したファイルを一部改変して利用しています。
+* 本ウェブサイトのコンテンツは、G/O Media Inc.、株式会社メディアジーン、若しくはその他第三者に著作権、商標権、その他の知的財産権が帰属する場合を**除き**、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の下でライセンスされています。
+* よって、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)でライセンス**されない**コンテンツを転載、複製等その他著作権等を侵害する行為を行うことはできません。
+* 本ウェブサイトを構築するために、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の下で[Docusaurus](https://docusaurus.io)が公開したファイルを一部改変して利用しています。
 
 ## その他
 
