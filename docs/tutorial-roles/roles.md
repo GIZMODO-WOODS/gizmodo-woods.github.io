@@ -52,7 +52,7 @@ GIZMODO WOODSに参加後、これらのロールをつけたい/外したいと
 
 :::tip チャンネルが見つからない場合
 
-[チャンネル表示とは](docs/tutorial-channel-display/display-setting.md)より、
+[チャンネル表示](docs/tutorial-channel-display/display-setting.md)より、
 
 ①すべてのチャンネルを表示させる方法の設定、
 
