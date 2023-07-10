@@ -52,9 +52,7 @@ GIZMODO WOODSに参加後、これらのロール（権限）をつけたい/外
 
 :::tip チャンネルが見つからない場合
 
-[チャンネル表示とは](docs/tutorial-channel-display/display-setting.md)より、
-
-①の設定、②でカテゴリー「ようこそ」もしくはテキストチャンネル「通知受け取り設定」をフォローしてください。
+[チャンネル表示とは](docs/tutorial-channel-display/display-setting.md)より、①の設定、②でカテゴリー「ようこそ」もしくはテキストチャンネル「通知受け取り設定」をフォローしてください。
 
 :::
 
