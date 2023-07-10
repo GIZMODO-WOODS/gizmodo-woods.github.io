@@ -35,8 +35,8 @@ A.<a href= "https://gizmodo-woods.github.io/about-us#%E3%81%93%E3%81%AE%E3%82%A6
 </details>
 
 <details><summary>Q.不審なユーザーを見つけました。
-<p>　Q.本サイトの情報を追加して欲しいです。
-　Q.GIZMODO WOODSのサーバー環境の改善にアイディアがあります。</p></summary>
+　Q.本サイトの情報を追加して欲しいです。
+<p>　Q.GIZMODO WOODSのサーバー環境の改善にアイディアがあります。</p></summary>
 A.具体的な内容を添えて<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support" >お問い合わせ</a>ください。なお、本Discordサーバー外やDMなどでの個人間トラブルは<a href= "https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d" >利用規約</a>より、個人間の解決をお願いします。その問題を提示されましても、GIZMODO WOODSで発生した事案にしか対応いたしません。</details>
 
 <details><summary>Q.ギズモード・ジャパンのスタッフのロールはないの？<br>
