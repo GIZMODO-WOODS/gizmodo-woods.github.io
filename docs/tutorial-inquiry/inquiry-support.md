@@ -8,7 +8,7 @@ sidebar_position: 2
 
 :::note お問い合わせの前に...
 
-[よくあるご質問](https://gizmodo-woods.github.io/docs/tutorial-inquiry/qa-faq)をご一読ください。
+[よくあるご質問](docs/tutorial-inquiry/qa-faq.md)をご一読ください。
 
 :::
 
