@@ -70,7 +70,7 @@ GIZMODO WOODSに参加後、これらのロール（権限）をつけたい/外
 
 ブースト方法など、詳しくは[Discord サポートの解説記事](https://support.discord.com/hc/articles/360028038352-Server-Boosting-FAQ-#h_9dfb44db-c394-4339-863b-e6d1e3fb0469)をお読みください。
 
-もし本ロール（権限）の機能追加などのアイディアがあればお気軽にお問い合わせください。
+もし本ロール（権限）の機能追加などのアイディアがあればお気軽に[お問い合わせ](docs/tutorial-inquiry/inquiry-support.md)ください。
 
 ## 編集部
 
