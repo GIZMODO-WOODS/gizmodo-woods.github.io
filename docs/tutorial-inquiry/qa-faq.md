@@ -25,7 +25,7 @@ A.<a href= "https://gizmodo-woods.github.io/docs/tutorial-channel-display/displa
 A.<a href= "https://gizmodo-woods.github.io/docs/tutorial-channel-display/display-setting#%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95" >チャンネル表示とは</a>をご確認ください。</details>
 
 <details><summary>Q.このサーバーのロールについて詳しく教えてください。</summary>
-A.詳しくは<a href= "https://www.google.co.jp/" >ロール</a>をご覧ください。</details>
+A.詳しくは<a href= "https://gizmodo-woods.github.io/docs/tutorial-roles/roles" >ロール</a>をご覧ください。</details>
 
 <details><summary>Q.敷居が高い、モデレーターしか話していない。</summary>
 A.イベントなどを検討しております。アイディアがあれば、ぜひ<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support" >お問い合わせ</a>にて教えてください。</details>
@@ -45,9 +45,9 @@ A.具体的な内容を添えて<a href= "https://gizmodo-woods.github.io/docs/t
 A.具体的な内容を添えて<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support" >お問い合わせ</a>ください。</details>
 
 <details><summary>Q.ギズモード・ジャパンのスタッフのロールはないの？</summary>
-A.カスタムロール「編集部」が付いているユーザーがギズモード・ジャパンのスタッフです。詳しくは<a href= "https://www.google.co.jp/" >ロール（権限）（編集部員のところ）</a>をご参照ください。
+A.カスタムロール「編集部」が付いているユーザーがギズモード・ジャパンのスタッフです。詳しくは<a href= "https://gizmodo-woods.github.io/docs/tutorial-roles/roles#%E7%B7%A8%E9%9B%86%E9%83%A8" >ロール（編集部員）</a>をご参照ください。
 </details>
 
 <details><summary>Q.編集部員はこのDiscordサーバーにいるの？</summary>
-A.詳しくは<a href= "https://www.google.co.jp/" >ロール（権限）（編集部員のところ）</a>をご参照ください。
+A.詳しくは<a href= "https://gizmodo-woods.github.io/docs/tutorial-roles/roles#%E7%B7%A8%E9%9B%86%E9%83%A8" >ロール（編集部員）</a>をご参照ください。
 </details>
