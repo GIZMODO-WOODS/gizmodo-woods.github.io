@@ -8,12 +8,6 @@ sidebar_position: 1
 
 質問をクリック/タップすると回答を確認することができます。
 
-<style>
-  summary {
-    white-space: pre-wrap;
-  }
-</style>
-
 <details><summary>Q.テキストチャンネル#aiが#AI、#youtubeが#YouTubeではないのはなぜですか？</summary>
 A.大文字の英字はチャンネル名に使用できず、強制的に小文字になる仕様があるからです。別の文字方式で大文字の英字に見せかけることはできますが、別のチャンネルでチャンネルリンクを記載するなどの便宜上、小文字のまま運用します。
 </details>
@@ -41,7 +35,9 @@ A.<a href= "https://gizmodo-woods.github.io/about-us#%E3%81%93%E3%81%AE%E3%82%A6
 </details>
 
 <details><summary>Q.不審なユーザーを見つけました。
+
 　Q.本サイトの情報を追加して欲しいです。
+
 　Q.GIZMODO WOODSのサーバー環境の改善にアイディアがあります。</summary>
 A.具体的な内容を添えて<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support" >お問い合わせ</a>ください。なお、本Discordサーバー外やDMなどでの個人間トラブルは<a href= "https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d" >利用規約</a>より、個人間の解決をお願いします。その問題を提示されましても、GIZMODO WOODSで発生した事案にしか対応いたしません。</details>
 
