@@ -8,6 +8,12 @@ sidebar_position: 1
 
 質問をクリック/タップすると回答を確認することができます。
 
+<style>
+  summary {
+    white-space: pre-wrap;
+  }
+</style>
+
 <details><summary>Q.テキストチャンネル#aiが#AI、#youtubeが#YouTubeではないのはなぜですか？</summary>
 A.大文字の英字はチャンネル名に使用できず、強制的に小文字になる仕様があるからです。別の文字方式で大文字の英字に見せかけることはできますが、別のチャンネルでチャンネルリンクを記載するなどの便宜上、小文字のまま運用します。
 </details>
