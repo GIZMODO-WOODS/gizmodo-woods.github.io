@@ -48,7 +48,6 @@ A.具体的な内容を添えて<a href= "https://gizmodo-woods.github.io/docs/t
 A.カスタムロール「編集部」が付いているユーザーがギズモード・ジャパンのスタッフです。詳しくは<a href= "https://www.google.co.jp/" >ロール（権限）（編集部員のところ）</a>をご参照ください。
 </details>
 
-<details><summary>Q.ギズモード・ジャパンのスタッフのロールはないの？
-　Q.編集部員はこのDiscordサーバーにいるの？</summary>
+<details><summary>Q.編集部員はこのDiscordサーバーにいるの？</summary>
 A.詳しくは<a href= "https://www.google.co.jp/" >ロール（権限）（編集部員のところ）</a>をご参照ください。
 </details>
