@@ -34,8 +34,8 @@ A.イベントなどを検討しております。アイディアがあれば、
 A.<a href= "https://gizmodo-woods.github.io/about-us#%E3%81%93%E3%81%AE%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B" >このウェブサイトについてのお問い合わせ</a>を参照してください。
 </details>
 
-<details><summary><p>Q.不審なユーザーを見つけました。
-　Q.本サイトの情報を追加して欲しいです。
+<details><summary>Q.不審なユーザーを見つけました。
+<p>　Q.本サイトの情報を追加して欲しいです。
 　Q.GIZMODO WOODSのサーバー環境の改善にアイディアがあります。</p></summary>
 A.具体的な内容を添えて<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support" >お問い合わせ</a>ください。なお、本Discordサーバー外やDMなどでの個人間トラブルは<a href= "https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d" >利用規約</a>より、個人間の解決をお願いします。その問題を提示されましても、GIZMODO WOODSで発生した事案にしか対応いたしません。</details>
 
