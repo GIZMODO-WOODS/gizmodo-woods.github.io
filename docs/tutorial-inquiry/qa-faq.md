@@ -37,7 +37,6 @@ A.<a href= "https://gizmodo-woods.github.io/about-us#%E3%81%93%E3%81%AE%E3%82%A6
 <details><summary>Q.不審なユーザーを見つけました。
 
 　Q.本サイトの情報を追加して欲しいです。
-
 　Q.GIZMODO WOODSのサーバー環境の改善にアイディアがあります。
  
 </summary>
