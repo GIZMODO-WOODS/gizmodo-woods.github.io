@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # ロールについて
 
-こちらのページでは、GIZMODO WOODSにあるロールについてお答えします。
+こちらのページでは、GIZMODO WOODSにあるロールについて説明します。
 
 :::note ロールの並び順について
 
