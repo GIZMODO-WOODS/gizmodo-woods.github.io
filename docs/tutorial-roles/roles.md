@@ -68,6 +68,8 @@ sidebar_position: 1
 
 <img src={require("./img/bot-reply.webp").default} style={{transform:'scale(0.95)'}} />
 
+例えば、上のような状態の場合、イベント通知&emsp;お知らせ通知の両方のロールを削除したことになります。
+
 ## Server Booster
 
 このロールは、GIZMODO WOODSをサーバーブーストすると付与されます。
@@ -94,6 +96,6 @@ sidebar_position: 1
 
 ほとんどのモデレータは当時GIZMODO WOODSを公開（自由に誰でも入れるようにする）することを管理者に提案したアクティブユーザーで、ギズモード・ジャパンを愛するいちファンです。
 
-サーバー運営、Bot管理、本サイトなどの管理を行っています。
+GIZMODO WOODS、Bot、本サイトなどの管理を行っています。
 
 日本をはじめ、複数の時間帯で生活しており、迅速な対応が可能となっております。
