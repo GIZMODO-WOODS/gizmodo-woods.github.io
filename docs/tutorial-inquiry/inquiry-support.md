@@ -6,13 +6,9 @@ sidebar_position: 2
 
 本サイトについて、またはDiscordサーバー「GIZMODO WOODS」についてわからない点がある場合は、お気軽にお問合せください。
 
-:::note ギズモード・ジャパンについて
+:::note お問い合わせの前に...
 
-基本的に、本サイトとDiscordサーバー「GIZMODO WOODS」について対応いたします。
-
-ギズモード・ジャパンについての問い合わせは可能ですが、ギズモード・ジャパンの関係者に情報を共有するため、対応に時間を要します。
-
-よろしければ、[株式会社メディアジーンの問い合わせ窓口](https://www.mediagene.co.jp/contact)までお問合せください。
+[よくあるご質問](https://gizmodo-woods.github.io/docs/tutorial-inquiry/qa-faq)をご一読ください。
 
 :::
 
