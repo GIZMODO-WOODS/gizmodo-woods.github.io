@@ -60,9 +60,11 @@ GIZMODO WOODSに参加後、これらのロール（権限）をつけたい/外
 
 ②付与/削除を希望するロール（権限）名のボタンをタップ/クリックします。
 
-
+<img src={require("./img/roles-setting.webp").default} style={{transform:'scale(0.95)'}} />
 
 ③Botからの返答が来れば、設定完了です。
+
+<img src={require("./img/bot-reply.webp").default} style={{transform:'scale(0.95)'}} />
 
 ## Server Booster
 
