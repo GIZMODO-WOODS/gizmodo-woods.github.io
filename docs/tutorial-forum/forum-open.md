@@ -10,13 +10,13 @@ sidebar_position: 3
 
 スレッドを開きたいフォーラムを選択し、「新しい投稿」ボタンを押します。
 
-<img src={require("./img/forum-open-0.webp").default} style={{transform:'scale(0.6)'}} />
+<img src={require("./img/forum-open-0.webp").default} style={{transform:'scale(0.95)'}} />
 
 必要事項を入力して、「投稿」ボタンを押すと新しいスレッドを作成できます。
 
 緑色でマークしたボタンを押すと、そのフォーラムの投稿ガイドラインが表示されます。自分が立てようとしてるスレッドがガイドラインに沿っているか確認してください。
 
-<img src={require("./img/forum-open-1.webp").default} style={{transform:'scale(0.6)'}} />
+<img src={require("./img/forum-open-1.webp").default} style={{transform:'scale(0.95)'}} />
 
 ## スレッドの閉じ方
 
@@ -24,7 +24,7 @@ sidebar_position: 3
 
 チャンネル一覧から閉じたいスレッドを右クリックもしくは長押しして、「投稿をクローズ」ボタンを押します。
 
-<img src={require("./img/forum-close.webp").default} style={{transform:'scale(0.6)'}} />
+<img src={require("./img/forum-close.webp").default} style={{transform:'scale(0.95)'}} />
 
 :::tip 豆知識
 閉じたスレッドを後で読み返したり、復活させることも可能です。アクティブなスレッドが上に表示されるよう、話が終わったらスレッドは閉じるようにしましょう。
