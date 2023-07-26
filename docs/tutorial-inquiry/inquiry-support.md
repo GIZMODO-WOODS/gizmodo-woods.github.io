@@ -33,6 +33,9 @@ ticket-bot-message1.webp").default} style={{transform:'scale(0.95)'}} />
 
 お問い合わせ内容を記入し、「送信」をクリック/タップしてお問い合わせチケットを発行します。
 
+<img src={require("./img/
+ticket-bot-form.webp").default} style={{transform:'scale(0.95)'}} />
+
 あなた（質問者）と運営（モデレーターと管理者）のみが見れるテキストチャットが作成されます。
 
 発行後、そこにお問い合わせ内容を記入し、通常のテキストチャットの通りに送信します。
