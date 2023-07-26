@@ -42,6 +42,8 @@ sidebar_position: 1
 
 - ギズモード
 
+    - [レビュー（フォーラム）](https://discord.com/channels/753903663298117694/1126057963526819840)
+
     - [記事](https://discord.com/channels/753903663298117694/1095991115544539219)
 
     - [youtube](https://discord.com/channels/753903663298117694/1095991150034288712)
