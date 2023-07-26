@@ -40,8 +40,24 @@ sidebar_position: 1
 
     - [その他テック（フォーラム）](https://discord.com/channels/753903663298117694/1095990742943535197)
 
+- ギズモード
+
+    - [記事](https://discord.com/channels/753903663298117694/1095991115544539219)
+
+    - [youtube](https://discord.com/channels/753903663298117694/1095991150034288712)
+
+    - [project_lightning](https://discord.com/channels/753903663298117694/889075104481423461)
+
 :::note フォーラムについて
 フォーラムは、独立したテキストチャンネルでは扱われないような話題が入っています。
 
 詳しくは「[フォーラムとは？](/docs/tutorial-forum/what-is-forum.md)」を参照してください。
+:::
+
+:::tip チャンネル名について
+一部のテキストチャンネル名で大文字であるべきチャンネル名が小文字である理由は、
+
+「[よくあるご質問](/docs/tutorial-inquiry/qa-faq.md)」の「Q.テキストチャンネル#aiが#AI、#youtubeが#YouTubeではないのはなぜですか？」
+
+を参照してください。
 :::
