@@ -18,6 +18,8 @@ sidebar_position: 1
 
     - [写真動画見せたい](https://discord.com/channels/753903663298117694/1095990903958679553)
 
+    - [散財日記](https://discord.com/channels/753903663298117694/1141281914716704809)
+
     - [飯テロ](https://discord.com/channels/753903663298117694/1095990929577476097)
 
     - [質問（フォーラム）](https://discord.com/channels/753903663298117694/1034090635852001310)
