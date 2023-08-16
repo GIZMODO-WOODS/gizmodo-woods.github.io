@@ -1,0 +1,10 @@
+# Actually, this member is not real and is created by a generative AI...
+
+User-agent: Homo sapiens sapiens
+Allow: /
+
+User-agent:  Homo sapiens idaltu
+Disallow: /
+
+User-agent: Homo neanderthalensis
+Disallow: /

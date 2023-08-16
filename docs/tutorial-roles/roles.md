@@ -90,7 +90,7 @@ sidebar_position: 1
 
 このロールはオンボーディング（初めてこのサーバーに入った際の質問）を通過した際に自動的に付与されるロールです。
 
-## moderator
+## [moderator](https://gizmodo-woods.github.io/humans.txt)
 
 このロールはギズモード・ジャパンが任命したユーザに付与されるロールです。
 
