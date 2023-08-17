@@ -8,7 +8,7 @@ sidebar_position: 2
 
 このページではイベントの作成方法をお伝えします。
 
-### ①どのようなイベントをしたいか考えよう！
+## ①どのようなイベントをしたいか考えよう！
 
 例えば、GIZMODO WOODSに参加している人と...
 
@@ -38,29 +38,29 @@ sidebar_position: 2
 
 :::
 
-### ②実際にイベントを設定しよう！
+## ②実際にイベントを設定しよう！
 
 企画構想が済んだら、イベントを設定してみましょう。
 
-1. 以下のような表示から、「イベント」やイベントのアイコンをクリック/タップし、イベントを開きます。
+### 1. 以下のような表示から、「イベント」やイベントのアイコンをクリック/タップし、イベントを開きます。
 
-<img src={require("./img/clk-event1.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/clk-event1.webp").default} style={{width:'auto',height:'auto','max-width:95%',max-height:'70vh'}} />
 
-<img src={require("./img/clk-event2.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/clk-event2.webp").default} style={{width:'auto',height:'auto','max-width:95%',max-height:'70vh'}} />
 
-2. 「新規作成」や「イベントを作成」をクリック/タップします。
+### 2. 「新規作成」や「イベントを作成」をクリック/タップします。
 
-3. イベントの開催場所を指定します。
+### 3. イベントの開催場所を指定します。
 
 運営（管理者とモデレーター）が設定されたイベントの確認とともに適切な開催場所を再設定するので、「他の場所」を選択し、任意の文字列やイベントのウェブサイトのURLなどを記載してください。
 
-<img src={require("./img/setting-place.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/setting-place.webp").default} style={{width:'auto',height:'auto','max-width:95%',max-height:'70vh'}} />
 
-4. イベントの情報を設定します。
+### 4. イベントの情報を設定します。
 
 以下の要領に従って設定してください。
 
-<img src={require("./img/theme-of-event.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/theme-of-event.webp").default} style={{width:'auto',height:'auto','max-width:95%',max-height:'70vh'}} />
 
 「イベントのトピック」：一目で見てわかりやすいイベントの概要を書きましょう。
 
@@ -76,9 +76,9 @@ sidebar_position: 2
 
 運営（管理者とモデレーター）が設定されたイベントの確認とともに再設定を行います。
 
-5. 最後にイベントの内容を確認し、よろしければイベントを作成します。
+### 5. 最後にイベントの内容を確認し、よろしければイベントを作成します。
 
-<img src={require("./img/confirmation-event.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/confirmation-event.webp").default} style={{width:'auto',height:'auto','max-width:95%',max-height:'70vh'}} />
 
 以上でイベントの新規作成は完了です。
 
