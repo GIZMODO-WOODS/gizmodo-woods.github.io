@@ -46,7 +46,7 @@ sidebar_position: 2
 
 <img src={require("./img/clk-event1.webp").default} style={{transform:'scale(0.50)'}} />
 
-<img src={require("./img/clk-event2.webp").default} style={{transform:'scale(0.95)'}} />
+<div style="text-align: center;"><img src={require("./img/clk-event2.webp").default} style={{transform:'scale(1)'}} />
 
 2. 「新規作成」や「イベントを作成」をクリック/タップします。
 
