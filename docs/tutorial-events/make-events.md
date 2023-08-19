@@ -44,9 +44,9 @@ sidebar_position: 2
 
 1. 以下のような表示から、「イベント」やイベントのアイコンをクリック/タップし、イベントを開きます。
 
-<img src={require("./img/clk-event1.webp").default} style={{transform:'scale(0.50)'}} />
+<img src={require("./img/clk-event1.webp").default} style={{transform:'scale(0.50)', float: 'left'}} />
 
-<img src={require("./img/clk-event2.webp").default}/>
+<img src={require("./img/clk-event2.webp").default} style={{float: 'left'}} />
 
 2. 「新規作成」や「イベントを作成」をクリック/タップします。
 
@@ -54,13 +54,13 @@ sidebar_position: 2
 
 運営（管理者とモデレーター）が設定されたイベントの確認とともに適切な開催場所を再設定するので、「他の場所」を選択し、任意の文字列やイベントのウェブサイトのURLなどを記載してください。
 
-<img src={require("./img/setting-place.webp").default} style={{transform:'scale(0.50)'}} />
+<img src={require("./img/setting-place.webp").default} style={{transform:'scale(0.50)', float: 'left'}} />
 
 4. イベントの情報を設定します。
 
 以下の要領に従って設定してください。
 
-<img src={require("./img/theme-of-event.webp").default} style={{transform:'scale(0.50)'}} />
+<img src={require("./img/theme-of-event.webp").default} style={{transform:'scale(0.50)', float: 'left'}} />
 
 「イベントのトピック」：一目で見てわかりやすいイベントの概要を書きましょう。
 
@@ -78,7 +78,7 @@ sidebar_position: 2
 
 5. 最後にイベントの内容を確認し、よろしければイベントを作成します。
 
-<img src={require("./img/confirmation-event.webp").default} style={{transform:'scale(0.50)'}} />
+<img src={require("./img/confirmation-event.webp").default} style={{transform:'scale(0.50)', float: 'left'}} />
 
 以上でイベントの新規作成は完了です。
 
