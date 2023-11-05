@@ -44,7 +44,7 @@ sidebar_position: 2
 
 1. 以下のような表示から、「イベント」やイベントのアイコンをクリック/タップし、イベントを開きます。
 
-<img src={require("./img/clk-event1.webp").default} style={{transform:'scale(0.80)'}} />
+<img src={require("./img/clk-event1.webp").default} style={{transform:'scale(0.60)'}} />
 
 <img src={require("./img/clk-event2.webp").default} />
 
