@@ -44,7 +44,7 @@ sidebar_position: 2
 
 1. 以下のような表示から、「イベント」やイベントのアイコンをクリック/タップし、イベントを開きます。
 
-<img src={require("./img/clk-event1.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/clk-event1.webp").default} style={{transform:'scale(0.80)'}} />
 
 <img src={require("./img/clk-event2.webp").default} />
 
@@ -54,23 +54,21 @@ sidebar_position: 2
 
 運営（管理者とモデレーター）が設定されたイベントの確認とともに適切な開催場所を再設定するので、「他の場所」を選択し、任意の文字列やイベントのウェブサイトのURLなどを記載してください。
 
-<img src={require("./img/setting-place.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/setting-place.webp").default} style={{transform:'scale(0.80)'}} />
 
 4. イベントの情報を設定します。
 
 以下の要領に従って設定してください。
 
-<img src={require("./img/theme-of-event.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/theme-of-event.webp").default} style={{transform:'scale(0.80)'}} />
 
-「イベントのトピック」：一目で見てわかりやすいイベントの概要を書きましょう。
-
-「開始日」「開始時間」：あなたが現在いる時間帯（日本時間、アメリカ時間など）における、イベントの開始予定時間を書きましょう。
-
-「終了日」「終了時間」：あなたが現在いる時間帯（日本時間、アメリカ時間など）における、イベントの終了予定時間を書きましょう。
-
-「概要」：イベントの概要を簡潔にわかりやすく記載しましょう。マークダウン、行替え、リンクを使用してわかりやすい内容にしましょう。
-
-「カバー画像」（PC版、Web版のみ）：イベントを象徴する画像を添付しましょう。縦横（アスペクト）比の設定が大変かもしれません。
+|項目|内容|
+|:---:|:---:|
+|イベントのトピック|簡潔なイベントの概要|
+|開始日、開始時間|現在いる時間帯における、イベントの開始予定時間|
+|終了日、終了時間|現在いる時間帯における、イベントの終了予定時間|
+|概要|簡潔なイベントの概要（マークダウン、行替え、リンクを使用可能）|
+|カバー画像（オプション、PC版、Web版のみ）|イベントを象徴する画像|
 
 特に、カバー画像などは設定が大変なため、設定したい画像があるサイトのリンクを「概要」の下部に記載していただくだけでも結構です。
 
@@ -78,7 +76,7 @@ sidebar_position: 2
 
 5. 最後にイベントの内容を確認し、よろしければイベントを作成します。
 
-<img src={require("./img/confirmation-event.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/confirmation-event.webp").default} style={{transform:'scale(0.80)'}} />
 
 以上でイベントの新規作成は完了です。
 
