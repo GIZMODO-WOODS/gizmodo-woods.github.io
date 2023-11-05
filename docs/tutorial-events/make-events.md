@@ -34,7 +34,7 @@ sidebar_position: 2
 
 :::tip イベントの設定にお困りの場合
 
-お気軽に[お問い合わせ](/docs/tutorial-inquiry/qa-faq.md)ください。
+イベントの企画を添えて[雑談](https://discord.com/channels/753903663298117694/768485824517505055)もしくは[お問い合わせ](/docs/tutorial-inquiry/qa-faq.md)でお知らせください。
 
 :::
 
