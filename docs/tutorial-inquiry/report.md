@@ -4,7 +4,9 @@ sidebar_position: 3
 
 # 投稿（メッセージ）の通報方法
 
-不審なユーザーや投稿（メッセージ）を見つけた際、いちいち[お問い合わせ](docs/tutorial-inquiry/inquiry-support.md)をしなくてもユーザー/投稿（メッセージ）を通報することができます。
+不審な投稿（メッセージ）を見つけた際、[お問い合わせ](docs/tutorial-inquiry/inquiry-support.md)をしなくても投稿（メッセージ）を通報することができます。
+
+投稿（メッセージ）に対する通報以外の問題全般は[よくあるご質問](docs/tutorial-inquiry/qa-faq.md)をご確認の上、[お問い合わせ](docs/tutorial-inquiry/inquiry-support.md)ください。
 
 :::tip この機能はDiscord公式の通報を省略するものではありません！
 
