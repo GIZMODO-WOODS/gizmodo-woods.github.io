@@ -10,6 +10,14 @@ sidebar_position: 3
 
 スレッドを開きたいフォーラムを選択し、「新しい投稿」ボタンを押します。
 
+:::note 「新しい投稿」ボタンを押せない場合
+
+運営がそのフォーラムでのスレッド作成を制限しています。
+
+新しいフォーラム内スレッドを作成してほしい場合は、具体的なスレッド名とその内容を添えて[お問い合わせ](docs/tutorial-inquiry/inquiry-support.md)ください。
+
+:::
+
 <img src={require("./img/forum-open-0.webp").default} style={{transform:'scale(0.95)'}} />
 
 必要事項を入力して、「投稿」ボタンを押すと新しいスレッドを作成できます。
