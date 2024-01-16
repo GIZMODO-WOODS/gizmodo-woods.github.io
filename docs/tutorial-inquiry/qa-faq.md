@@ -11,11 +11,10 @@ sidebar_position: 1
 <details><summary>Q.Discordクライアント（アプリ・ソフト）が正常に動作しません。</summary>
 A.大変申し訳ございませんが、運営はDiscordの従業員やクライアントの開発者ではないため、なにも対応することができません。PCやスマホなどの再起動、ログアウトと再ログイン、アプリやソフトのアンインストールと再インストールなどの基本的なトラブルシューティングをお試しいただき、解決しないようであれば<a href= "https://support.discord.com/hc/ja" >Discordのサポートページ</a>からサポートをご依頼ください。</details>
 
-<details><summary>Q.このDiscordサーバーの参加者から怪しいDMを送られました。</summary>
-A.大変申し訳ございませんが、本Discordサーバー外やDMなどでのトラブルに対して運営側はなにも対処することはできません。Discord標準の通報機能や<a href= "https://support.discord.com/hc/ja" >Discordのサポートページ</a>からサポートのご依頼、ブロックやDMの削除、プライバシー設定を行い、自主的な対策をお取りください。なお、DMで起こった問題を本Discordサーバーに流布する行為はサーバーの秩序の乱れを起こす原因となります。場合によっては運営の協議のみでメッセージの削除やタイムアウト・キック・BANを行う可能性がありますのでご注意ください。</details>
-
-<details><summary>Q.不審なメッセージを見つけました。</summary>
-A.<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/report" >投稿（メッセージ）の通報方法</a>からメッセージの通報をお試しいただくか、具体的な内容を添えて<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support" >お問い合わせ</a>ください。</details>
+<details><summary>Q.不審なメッセージ/DMを見つけました。</summary>
+A.GIZMODO WOODS内で投稿されたメッセージについては、<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/report" >投稿（メッセージ）の通報方法</a>からメッセージの通報をお試しいただくか、メッセージリンクなどの具体的な内容を添えて<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support" >お問い合わせ</a>ください。
+GIZMODO WOODSの参加者からのDMについては、やり取りをしているユーザー名とDMのスクリーンショットをご用意のうえ、<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support" >お問い合わせ</a>ください。
+なお、GIZMODO WOODS以外のDiscordサーバー、サービスにおける事象については対応できませんのでご注意ください。</details>
 
 <details><summary>Q.テキストチャンネル#aiが#AI、#youtubeが#YouTubeではないのはなぜですか？</summary>
 A.大文字の英字はチャンネル名に使用できず、強制的に小文字になる仕様があるからです。別の文字方式で大文字の英字に見せかけることはできますが、別のチャンネルでチャンネルリンクを記載するなどの便宜上、小文字のまま運用します。</details>
@@ -36,7 +35,7 @@ A.詳しくは<a href= "https://gizmodo-woods.github.io/docs/tutorial-roles/role
 A.<a href= "https://gizmodo-woods.github.io/about-us#%E3%81%93%E3%81%AE%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B" >このウェブサイトについてのお問い合わせ</a>を参照してください。</details>
 
 <details><summary>Q.不審なユーザーを見つけました。/GIZMODO WOODSのサーバー環境の改善にアイディアがあります。</summary>
-A.具体的な内容を添えて<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support" >お問い合わせ</a>ください。なお、本Discordサーバー外やDMなどでの個人間トラブルは<a href= "https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d" >利用規約</a>より、個人間の解決をお願いします。その問題を提示されましても、GIZMODO WOODSで発生した事案にしか対応いたしません。</details>
+A.具体的な内容を添えて<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support" >お問い合わせ</a>ください。なお、GIZMODO WOODS以外のDiscordサーバー、サービスにおける事象については対応できませんのでご注意ください。</details>
 
 <details><summary>Q.ギズモード・ジャパンのスタッフや編集部員はこのDiscordサーバーにいるの？</summary>
 A.カスタムロール「編集部」が付いているユーザーがギズモード・ジャパンのスタッフや編集部員です。詳しくは<a href= "https://gizmodo-woods.github.io/docs/tutorial-roles/roles#%E7%B7%A8%E9%9B%86%E9%83%A8" >ロール（編集部）</a>をご参照ください。</details>
