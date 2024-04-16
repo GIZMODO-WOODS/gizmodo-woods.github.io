@@ -72,7 +72,7 @@ const config = {
         items: [
           {
             label: '概要',
-            to: 'about-us',
+            to: '/about-us',
             position: 'left',
           },
           {
@@ -80,6 +80,11 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: '参加方法/使い方',
+          },
+          {
+            to: 'docs/tutorial-inquiry/qa-faq',
+            position: 'left',
+            label: 'FAQ',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -93,11 +98,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'このページのコンテンツ',
+            title: 'このサイトのコンテンツ',
             items: [
               {
                 label: 'GIZMODO WOODSとは',
-                to: 'about-us',
+                to: '/about-us',
               },
               {
                 label: '参加方法/使い方',
@@ -140,7 +145,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} GIZMODO WOODS. For more details, visit <a href="about-us" target="_blank" rel="noopener noreferrer">here</a>.`,
+        copyright: `Copyright © 2023-${new Date().getFullYear()} GIZMODO WOODS. For more details, visit <a href="/about-us" target="_blank" rel="noopener noreferrer">here</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
