@@ -131,7 +131,7 @@ const config = {
                 href: 'https://www.gizmodo.jp',
               },
               {
-                label: 'ギズモード・ジャパン Twitter',
+                label: 'ギズモード・ジャパン X（旧Twitter）',
                 href: 'https://twitter.com/gizmodojapan',
               },
               {
