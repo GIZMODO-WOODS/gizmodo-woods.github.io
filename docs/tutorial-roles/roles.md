@@ -32,13 +32,15 @@ sidebar_position: 1
 
 GIZMODO WOODSをDiscordで開き、「サーバーガイド」とカテゴリー「ようこそ」の間にある「チャンネル＆ロール」をクリックorタップします。
 
-<img src={require("./img/push-ch-roles.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/push-ch-roles.webp").default} style={{transform:'scale(0.60)'}} />
 
 2. タブ「カスタマイズ」を選択する
 
 1.で「チャンネル＆ロール」を開いた際にデフォルトでタブ「カスタマイズ」が開くと思いますが、念のため確認してください。
 
 3. 「カスタマイズの質問」に回答する
+
+質問「通知の設定」の回答の選択を変えたいものにクリックorタップで変更してください（ロールの意味は選択肢の内容や本ページの上部を参照してください）。
 
 :::tip 質問内容について
 
@@ -48,11 +50,9 @@ GIZMODO WOODSをDiscordで開き、「サーバーガイド」とカテゴリー
 
 :::
 
-質問「通知の設定」の回答の選択を変えたいものにクリックorタップで変更してください（ロールの意味は選択肢の内容や本ページの上部を参照してください）。
-
 なにも表示されなかったり、質問がありませんと表示された場合は、アプリを再起動もしくは時間をおいてから再度1.からやり直してください。
 
-<img src={require("./img/cst-q.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/cst-q.webp").default} style={{transform:'scale(0.60)'}} />
 
 ここからは、その他のロールについてご紹介します。
 
