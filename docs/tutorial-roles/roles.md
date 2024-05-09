@@ -32,7 +32,7 @@ sidebar_position: 1
 
 GIZMODO WOODSをDiscordで開き、「サーバーガイド」とカテゴリー「ようこそ」の間にある「チャンネル＆ロール」をクリックorタップします。
 
-<img src={require("./img/push-ch-roles.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/push-ch-roles.webp").default} style={{transform:'scale(0.60)'}} />
 
 2. タブ「カスタマイズ」を選択する
 
@@ -52,7 +52,7 @@ GIZMODO WOODSをDiscordで開き、「サーバーガイド」とカテゴリー
 
 なにも表示されなかったり、質問がありませんと表示された場合は、アプリを再起動もしくは時間をおいてから再度1.からやり直してください。
 
-<img src={require("./img/cst-q.webp").default} style={{transform:'scale(0.95)'}} />
+<img src={require("./img/cst-q.webp").default} style={{transform:'scale(0.60)'}} />
 
 ここからは、その他のロールについてご紹介します。
 
