@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![イベント](./img/event.webp)
 
-GIZMODO WOODSのモデレーターがイベントを設定することがあります。
+GIZMODO WOODSの参加者やモデレーターがイベントを設定することがあります。
 
 興味のあるイベントを開くと詳細が確認でき、「興味あり（Interested）」を押すと、そのイベントの開始時間に通知を送ります。
 

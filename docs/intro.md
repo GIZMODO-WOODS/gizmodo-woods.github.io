@@ -6,7 +6,7 @@ sidebar_position: 1
 
 GIZMODO WOODSへようこそ！
 
-GIZMODO WOODSは、ギズモード・ジャパンの読者や視聴者が集う公式のDiscordサーバーです。（[詳細はこちら](/about-us)）
+GIZMODO WOODSは、ギズモード・ジャパンの読者や視聴者が集う公式のDiscordサーバーです（[詳細はこちら](/about-us)）。
 
 DiscordをダウンロードしてGIZMODO WOODSの輪に加わりましょう！
 
@@ -16,7 +16,7 @@ DiscordをダウンロードしてGIZMODO WOODSの輪に加わりましょう！
 
 ダウンロードリンクはこちら →　[Discord 公式サイト](https://discord.com)
 
-アカウントをお持ちでない方は、新しくDiscordアカウントを作成してください。作成後はメールアドレスの認証も必要です。
+アカウントをお持ちでない方は、Discordアカウントの作成とメールアドレスの認証を行ってから次に進んでください。
 
 ## サーバーに参加する
 
@@ -46,4 +46,4 @@ DiscordをダウンロードしてGIZMODO WOODSの輪に加わりましょう！
 
 <img src={require("/img/intro-onboarding-2.webp").default} style={{transform:'scale(0.95)'}} />
 
-「***準備完了***」と表示されたら、後はルールとマナーを守って楽しみましょう！
+「***準備完了***」と表示されたら、後は[ルール](https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d)とマナーを守って楽しみましょう！

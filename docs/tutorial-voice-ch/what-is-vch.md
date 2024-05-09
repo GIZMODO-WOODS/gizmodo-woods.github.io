@@ -10,7 +10,7 @@ sidebar_position: 1
 
 読み上げbotについては、[読み上げbotの使い方](https://gizmodo-woods.github.io/docs/tutorial-voice-ch/voicechat-text#%E8%AA%AD%E3%81%BF%E4%B8%8A%E3%81%92bot%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9)を参照してください。
 
-音楽botはこちら側で設定変更を行うため、[お問い合わせ](docs/tutorial-inquiry/inquiry-support.md)ください。
+読み上げbotや音楽botに関する質問・要望は、具体的な内容を添えて[お問い合わせ](docs/tutorial-inquiry/inquiry-support.md)ください。
 
 ## ボイスチャンネル一覧
 

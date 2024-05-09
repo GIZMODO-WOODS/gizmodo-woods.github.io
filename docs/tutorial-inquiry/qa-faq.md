@@ -9,7 +9,7 @@ sidebar_position: 1
 質問をクリック/タップすると回答を確認することができます。
 
 <details><summary>Q.Discordクライアント（アプリ・ソフト）が正常に動作しません。</summary>
-A.大変申し訳ございませんが、運営はDiscordの従業員やクライアントの開発者ではないため、なにも対応することができません。PCやスマホなどの再起動、ログアウトと再ログイン、アプリやソフトのアンインストールと再インストールなどの基本的なトラブルシューティングをお試しいただき、解決しないようであれば<a href= "https://support.discord.com/hc/ja" >Discordのサポートページ</a>からサポートをご依頼ください。</details>
+A.大変申し訳ございませんが、運営はDiscordの従業員やクライアントの開発者ではないため、なにも対応することができません。PCやスマホなどの再起動、ログアウトと再ログイン、アプリやソフトの再インストールなどの基本的なトラブルシューティングをお試しいただき、解決しないようであれば<a href= "https://support.discord.com/hc/ja" >Discordのサポートページ</a>からサポートをご依頼ください。</details>
 
 <details><summary>Q.不審なメッセージ/DMを見つけました。</summary>
 A.GIZMODO WOODS内で投稿されたメッセージについては、<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/report" >投稿（メッセージ）の通報方法</a>からメッセージの通報をお試しいただくか、メッセージリンクなどの具体的な内容を添えて<a href= "https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support" >お問い合わせ</a>ください。
