@@ -8,9 +8,9 @@ sidebar_position: 3
 
 投稿（メッセージ）に対する通報以外の問題全般は[よくあるご質問](docs/tutorial-inquiry/qa-faq.md)をご確認の上、[お問い合わせ](docs/tutorial-inquiry/inquiry-support.md)ください。
 
-:::tip この機能はDiscord公式の通報を省略するものではありません！
+:::tip この機能について
 
-この機能は本サーバーの運営を円滑に進めるための機能であり、Discord公式の機能ではありません。
+この機能はGIZMODO WOODSの運営を円滑に進めるための機能であり、Discord公式の機能ではありません。
 
 お手数をおかけしますが、以下の操作を行った後、Discordの標準機能の通報も実施してください。
 
