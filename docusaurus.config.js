@@ -108,6 +108,10 @@ const config = {
                 label: '参加方法/使い方',
                 to: '/docs/intro',
               },
+              {
+                label: 'FAQ',
+                to: 'docs/tutorial-inquiry/qa-faq',
+              },
             ],
           },
           {
@@ -121,26 +125,46 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/GIZMODO-WOODS',
               },
+              {
+                label: '利用規約',
+                href: 'https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d#file-gizmodo_woods_-terms_of_service-md',
+              },
             ],
           },
           {
             title: 'ギズモード・ジャパン 関連リンク',
             items: [
               {
-                label: 'ギズモード・ジャパン',
+                label: 'ホームページ',
                 href: 'https://www.gizmodo.jp',
               },
               {
-                label: 'ギズモード・ジャパン X（旧Twitter）',
+                label: 'X（旧Twitter）',
                 href: 'https://twitter.com/gizmodojapan',
               },
               {
-                label: 'ギズモード・ジャパン TikTok',
+                label: 'TikTok',
                 href: 'https://www.tiktok.com/@gizmodojapan',
               },
               {
-                label: 'ギズモード・ジャパン YouTube',
+                label: 'YouTube',
                 href: 'https://www.youtube.com/user/gizmodojapan',
+              },
+              {
+                label: 'Threads',
+                href: 'https://www.threads.net/@gizmodo_japan',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://www.facebook.com/gizmodojp',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/gizmodo_japan',
+              },
+              {
+                label: 'Bluesky',
+                href: 'https://bsky.app/profile/gizmodojapan.bsky.social',
               },
             ],
           },
