@@ -127,20 +127,36 @@ const config = {
             title: 'ギズモード・ジャパン 関連リンク',
             items: [
               {
-                label: 'ギズモード・ジャパン',
+                label: 'ホームページ',
                 href: 'https://www.gizmodo.jp',
               },
               {
-                label: 'ギズモード・ジャパン X（旧Twitter）',
+                label: 'X（旧Twitter）',
                 href: 'https://twitter.com/gizmodojapan',
               },
               {
-                label: 'ギズモード・ジャパン TikTok',
+                label: 'TikTok',
                 href: 'https://www.tiktok.com/@gizmodojapan',
               },
               {
-                label: 'ギズモード・ジャパン YouTube',
+                label: 'YouTube',
                 href: 'https://www.youtube.com/user/gizmodojapan',
+              },
+              {
+                label: 'Threads',
+                href: 'https://www.threads.net/@gizmodo_japan',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://www.facebook.com/gizmodojp',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/gizmodo_japan',
+              },
+              {
+                label: 'Bluesky',
+                href: 'https://bsky.app/profile/gizmodojapan.bsky.social',
               },
             ],
           },
