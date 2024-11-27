@@ -108,6 +108,10 @@ const config = {
                 label: '参加方法/使い方',
                 to: '/docs/intro',
               },
+              {
+                label: 'FAQ',
+                to: 'docs/tutorial-inquiry/qa-faq',
+              },
             ],
           },
           {
@@ -120,6 +124,10 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/GIZMODO-WOODS',
+              },
+              {
+                label: '利用規約',
+                href: 'https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d#file-gizmodo_woods_-terms_of_service-md',
               },
             ],
           },
