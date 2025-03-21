@@ -46,4 +46,4 @@ DiscordをダウンロードしてGIZMODO WOODSの輪に加わりましょう！
 
 <img src={require("/img/intro-onboarding-2.webp").default} style={{transform:'scale(0.95)'}} />
 
-「***準備完了***」と表示されたら、後は[ルール](https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d)とマナーを守って楽しみましょう！
+「***準備完了***」と表示されたら、後は[利用規約](https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d)とマナーを守って楽しみましょう！
