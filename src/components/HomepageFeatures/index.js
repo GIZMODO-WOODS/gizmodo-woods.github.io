@@ -6,6 +6,7 @@ const FeatureList = [
   {
     title: 'イベント同時視聴',
     img: './img/top-0.webp',
+    alt: 'User is using a PC for voice chat.',
     description: (
       <>
         Apple Keynoteなどのイベントを、ボイスチャンネルを使ってみんなで楽しもう！
@@ -15,6 +16,7 @@ const FeatureList = [
   {
     title: '日々の雑談',
     img: './img/top-1.webp',
+    alt: 'User is using a PC for text chat.',
     description: (
       <>
         ガジェット・テックの話題に限らず、気になるニュースや美味しかった料理などをみんなでシェアしよう！
@@ -24,6 +26,7 @@ const FeatureList = [
   {
     title: '質問タイム',
     img: './img/top-2.webp',
+    alt: 'User is taking notes while thinking.',
     description: (
       <>
         ジャンルを問わず、フォーラム機能で気になることを質問してみよう！ねぇねぇ、おすすめの映画教えて！！
