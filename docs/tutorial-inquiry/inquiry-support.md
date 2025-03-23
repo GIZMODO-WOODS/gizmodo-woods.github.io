@@ -32,26 +32,23 @@ sidebar_position: 2
 
 2. 「お問い合わせはこちら」をクリック/タップ
 
-<div style={{ textAlign: 'center', margin: 0 }}>
+<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
   <img 
     src={require("./img/open-inquiry.webp").default} 
-    style={{ 
-      transform: 'scale(0.8)', 
-      margin: '-40px auto'
-    }} 
+    style={{ width: '500px' }} 
   />
 </div>
 
 3. お問い合わせ内容を記入し、「送信」をクリック/タップ
 
-<div style={{ textAlign: 'center' }}>
+<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
   <img 
     src={require("./img/ticket-bot-form.webp").default} 
-    style={{ transform: 'scale(0.95)' }} 
+    style={{ width: '500px' }} 
   />
 </div>
 
-あなた（質問者）と運営（モデレーターと管理者）のみが見れるテキストチャットが作成されます。　　　
+あなた（質問者）と運営（モデレーターと管理者）のみが見れるテキストチャットが作成されます。   
 状況により、返信が遅れる場合がありますが、運営側から返信がくるまでしばらくお待ちください。
 
 ## お問い合わせが終了した際は...

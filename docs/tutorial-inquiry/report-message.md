@@ -27,12 +27,10 @@ sidebar_position: 3
 2. アプリにカーソルを当てて/タップし、「メッセージを運営へ通報」をクリック/タップ   
    ※通報しない場合は、「これらのメッセージを削除する」をクリック/タップしてください。
 
-<div style={{ textAlign: 'center', margin: 0 }}>
+<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
   <img 
     src={require("./img/report-bot-form.webp").default} 
-    style={{ 
-      transform: 'scale(0.8)'
-    }} 
+    style={{ width: '400px' }} 
   />
 </div>
 
