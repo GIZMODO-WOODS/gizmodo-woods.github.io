@@ -1,8 +1,8 @@
 {
   "label": "ボイスチャンネル",
-  "position": 3,
+  "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "ボイスチャンネルとは何か、どう使うのかはこちらのページを確認してください。"
+    "description": "ボイスチャンネルについてはこちらのページを確認してください。"
   }
 }
