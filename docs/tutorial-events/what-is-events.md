@@ -6,7 +6,8 @@ sidebar_position: 1
 
 GIZMODO WOODSの参加者やモデレーターがイベントを設定することがあります。
 
-![イベント](./img/event.webp)
+<img src={require("./img/event.webp").default}
+     style={{height: 'auto', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 興味のあるイベントを開くと詳細が確認でき、「興味あり（Interested）」を押すと、そのイベントの開始時間に通知を送ります。
 

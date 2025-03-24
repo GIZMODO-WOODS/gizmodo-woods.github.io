@@ -10,9 +10,5 @@ sidebar_position: 5
 
 テキスト（英数字・記号など）を`_ _`もしくは`* *`で囲むと斜体になります。
 
-<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-  <img 
-    src={require("./img/italic-text.webp").default} 
-    style={{ transform: 'scale(1.5)' }} 
-  />
-</div>
+<img src={require("./img/italic-text.webp").default}
+     style={{height: 'auto', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />

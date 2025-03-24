@@ -11,9 +11,5 @@ sidebar_position: 7
 テキストの前に`* `もしくは`- `を置くと箇条書きができます。   
 また、その前にスペースを置くとインデントをつけられます。
 
-<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-  <img 
-    src={require("./img/itemized-text.webp").default} 
-    style={{ transform: 'scale(1.2)' }} 
-  />
-</div>
+<img src={require("./img/itemized-text.webp").default}
+     style={{height: 'auto', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />

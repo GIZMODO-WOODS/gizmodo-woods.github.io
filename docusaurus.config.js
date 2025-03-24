@@ -68,6 +68,8 @@ const config = {
         logo: {
           alt: 'GIZMODO WOODS Logo',
           src: 'img/gizmodo-woods.webp',
+          height: '32px',
+          width: 'auto'
         },
         items: [
           {

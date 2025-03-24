@@ -27,12 +27,8 @@ sidebar_position: 3
 2. アプリにカーソルを当てて/タップし、「メッセージを運営へ通報」をクリック/タップ   
    ※通報しない場合は、「これらのメッセージを削除する」をクリック/タップしてください。
 
-<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-  <img 
-    src={require("./img/report-bot-form.webp").default} 
-    style={{ width: '400px' }} 
-  />
-</div>
+<img src={require("./img/report-bot-form.webp").default}
+     style={{height: 'auto', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 3. プルダウンをクリック/タップし、適切な理由を選択   
    選択後、自動的に通報されます。

@@ -26,14 +26,8 @@ sidebar_position: 1
 2. PC・タブレット版：「全てのチャンネルを表示」をクリック   
    スマホ版：下にスクロールし、「全てのチャンネルを表示」を有効化
 
-<div style={{ textAlign: 'center', margin: 0 }}>
-  <img 
-    src={require("./img/show-all-channels.webp").default} 
-    style={{ 
-      transform: 'scale(1.0)'
-    }} 
-  />
-</div>
+<img src={require("./img/show-all-channels.webp").default}
+     style={{height: 'auto', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 :::info 表示をやめたい場合
 

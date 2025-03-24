@@ -10,9 +10,5 @@ sidebar_position: 6
 
 テキストを`__ __`で囲むと下線を引けます。
 
-<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-  <img 
-    src={require("./img/underline-text.webp").default} 
-    style={{ transform: 'scale(1.5)' }} 
-  />
-</div>
+<img src={require("./img/underline-text.webp").default}
+     style={{height: 'auto', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />

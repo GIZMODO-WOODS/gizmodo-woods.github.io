@@ -11,7 +11,7 @@ sidebar_position: 2
 各行の文字の前に記号をつけることで、テキストの大きさを変えられます。   
 小さい順に並び替えると以下のようになります。
 
-<div style={{ display: 'flex', alignItems: 'center' }}>
+<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
   <div style={{ 
     borderRight: '2px solid #000', 
     paddingRight: '10px', 
@@ -32,6 +32,7 @@ sidebar_position: 2
     style={{ transform: 'scale(0.95)' }} 
   />
 </div>
+
 
 :::warning 注意
 

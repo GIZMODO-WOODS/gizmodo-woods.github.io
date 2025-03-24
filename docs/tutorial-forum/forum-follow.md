@@ -13,7 +13,8 @@ sidebar_position: 1
 
 - フォローしていないフォーラム内スレッド(話題)を開いて「フォローする」ボタンを押す
 
-<img src={require("./img/forum-follow.webp").default} style={{width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
+<img src={require("./img/forum-follow.webp").default}
+     style={{height: 'auto', width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 - フォローしていないフォーラム内スレッド(話題)を開いて、何かメッセージを送信する
 
@@ -26,4 +27,5 @@ sidebar_position: 1
 
 - チャンネル一覧からフォローしているフォーラム内スレッド（話題）を右クリックまたは長押しして、「投稿をアンフォロー」を押す
 
-<img src={require("./img/forum-unfollow.webp").default} style={{width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
+<img src={require("./img/forum-unfollow.webp").default}
+     style={{height: 'auto', width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />

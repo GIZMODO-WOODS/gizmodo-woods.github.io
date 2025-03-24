@@ -45,15 +45,8 @@ sidebar_position: 2
 
 3. 開催場所を「他の場所」に設定し、WebサイトのURLや任意の文字列を設定し、「次へ」をクリック/タップ
 
-<div style={{ textAlign: 'center', margin: 0 }}>
-  <img 
-    src={require("./img/setting-place.webp").default} 
-    style={{ 
-      transform: 'scale(0.80)', 
-      margin: '-30px auto'
-    }} 
-  />
-</div>
+<img src={require("./img/setting-place.webp").default}
+     style={{height: 'auto', width:'400px', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 4. イベント情報を設定し、「次へ」をクリック/タップ
 
@@ -67,27 +60,13 @@ sidebar_position: 2
 |概要|簡潔なイベントの概要|
 |カバー画像（PC・Web版）|イベントを象徴する画像|
 
-<div style={{ textAlign: 'center', margin: 0 }}>
-  <img 
-    src={require("./img/theme-of-event.webp").default} 
-    style={{ 
-      transform: 'scale(0.80)', 
-      margin: '-50px auto'
-    }} 
-  />
-</div>
+<img src={require("./img/theme-of-event.webp").default}
+     style={{height: 'auto', width:'400px', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 5. イベント内容を確認し、「イベントを作成」をクリック/タップ
 
-<div style={{ textAlign: 'center', margin: 0 }}>
-  <img 
-    src={require("./img/confirmation-event.webp").default} 
-    style={{ 
-      transform: 'scale(0.80)', 
-      margin: '-30px auto'
-    }} 
-  />
-</div>
+<img src={require("./img/confirmation-event.webp").default}
+     style={{height: 'auto', width:'400px', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 以上でイベントの新規作成は完了です。   
 モデレーターが設定されたイベントの確認と適宜再設定を行います。

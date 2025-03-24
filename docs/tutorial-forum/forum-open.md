@@ -17,13 +17,15 @@ sidebar_position: 2
 
 :::
 
-<img src={require("./img/forum-open-0.webp").default} style={{width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
+<img src={require("./img/forum-open-0.webp").default}
+     style={{height: 'auto', width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 2. 本のマークをクリック/タップし、投稿ガイドラインを確認
 
 PC・Web版では右下、スマホ版では右上にあります。
 
-<img src={require("./img/forum-posting-guideline.webp").default} style={{width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
+<img src={require("./img/forum-posting-guideline.webp").default}
+     style={{height: 'auto', width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 3. 必要事項を入力し、「投稿」ボタンをクリック/タップ
 
@@ -48,7 +50,8 @@ PC・Web版では右下、スマホ版では右上にあります。
 
 1. チャンネル一覧/スレッド一覧から閉じたいスレッドを右クリック/長押しし、「投稿をクローズ」をクリック/タップ
 
-<img src={require("./img/forum-close.webp").default} style={{width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
+<img src={require("./img/forum-close.webp").default}
+     style={{height: 'auto', width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 :::tip 豆知識
 
