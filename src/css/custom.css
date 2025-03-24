@@ -29,6 +29,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* 画像の選択や右クリックを無効化 */
 img {
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -36,4 +37,9 @@ img {
   user-select: none;
   -webkit-pointer-events: none;
   pointer-events: none;
+}
+
+/* <a> タグ内の画像はクリック可能にする */
+a img {
+  pointer-events: auto;
 }
