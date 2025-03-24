@@ -35,11 +35,12 @@ const FeatureList = [
   },
 ];
 
-function Feature({img, title, description}) {
+function Feature({img, title, description, alt}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img src={img} class={styles.featureImg}></img>
+      <img src={img} className={styles.featureImg} alt={alt} height={200} width="auto" />
+
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
