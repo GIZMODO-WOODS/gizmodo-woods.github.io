@@ -20,7 +20,7 @@ DiscordをダウンロードしてGIZMODO WOODSの輪に加わりましょう！
 
 ## サーバーに参加する
 
-<a href="https://discord.gg/gizmodo">
+<a href="https://discord.gg/gizmodo" rel="noopener">
   <img src={require("/img/gizmodo-woods.gif").default}
        style={{height: 'auto', width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
 </a>
