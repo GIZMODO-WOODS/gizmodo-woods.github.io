@@ -19,7 +19,7 @@ sidebar_position: 1
 
 ## イベント通知&emsp;お知らせ通知
 
-テキストチャンネル「お知らせ」[ [Web](https://discord.com/channels/753903663298117694/761549252186210304) / [App](discord://discord.com/channels/753903663298117694/761549252186210304) ]でお知らせする際にメンションされるロールです。
+テキストチャンネル「[お知らせ](/docs/channel-list.md#お知らせ--web--app-)」でお知らせする際にメンションされるロールです。
 
 イベント通知は、イベントのお知らせのために使われます。   
 お知らせ通知は、サーバー内のお知らせのために使われます。
@@ -28,7 +28,7 @@ sidebar_position: 1
 
 好きなブランドをアピールするためのロールです。
 
-[Server Booster](#server-booster)、[対面イベント参加者](#%E5%AF%BE%E9%9D%A2%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%8F%82%E5%8A%A0%E8%80%85)、[moderator]/docs/tutorial-roles/roles#moderator)のいずれかが付与されていない場合は、名前横に選択したブランドロールが表示されます。   
+[Server Booster](#server-booster)、[対面イベント参加者](#%E5%AF%BE%E9%9D%A2%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%8F%82%E5%8A%A0%E8%80%85)、[moderator](#moderator)のいずれかが付与されていない場合は、名前横に選択したブランドロールが表示されます。   
 Discordの仕様上、選択したもののうち一番上のロールアイコンのみとなります。
 
 ## Server Booster

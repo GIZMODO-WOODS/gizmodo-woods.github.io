@@ -31,7 +31,7 @@ sidebar_position: 2
 
 :::tip イベントの設定にお困りの場合
 
-イベントの企画を添えて[雑談](https://discord.com/channels/753903663298117694/768485824517505055)もしくは[お問い合わせ](/docs/tutorial-inquiry/inquiry-support.md)でお知らせください。
+イベントの企画を添えて[雑談](/docs/channel-list.md#雑談--web--app-)もしくは[お問い合わせ](/docs/tutorial-inquiry/inquiry-support.md)でお知らせください。
 
 :::
 
