@@ -83,7 +83,7 @@ sidebar_position: 1
     <summary>Q.ギズモード・ジャパンのスタッフや編集部員はこのDiscordサーバーにいるの？</summary>
     <p>
         A.カスタムロール「編集部」が付いているユーザーがギズモード・ジャパンのスタッフや編集部員です。
-        詳しくは<a href="docs/tutorial-roles/roles/#編集部" rel="noopener">ロール（編集部）</a>をご参照ください。
+        詳しくは<a href="/docs/tutorial-roles/roles.md#編集部" rel="noopener">ロール（編集部）</a>をご参照ください。
     </p>
 </details>
 
