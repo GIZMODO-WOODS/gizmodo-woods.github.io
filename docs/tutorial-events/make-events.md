@@ -31,7 +31,7 @@ sidebar_position: 2
 
 :::tip イベントの設定にお困りの場合
 
-イベントの企画を添えて[雑談](https://discord.com/channels/753903663298117694/768485824517505055)もしくは[お問い合わせ](/docs/tutorial-inquiry/inquiry-support.md)でお知らせください。
+イベントの企画を添えて[雑談](/docs/channel-list.md#雑談--web--app-)もしくは[お問い合わせ](/docs/tutorial-inquiry/inquiry-support.md)でお知らせください。
 
 :::
 
@@ -71,7 +71,7 @@ sidebar_position: 2
 以上でイベントの新規作成は完了です。   
 モデレーターが設定されたイベントの確認と適宜再設定を行います。
 
-よろしければ、適切な[テキストチャンネル](https://shiny-cod-v6gv4wj96wq3prx9-3000.app.github.dev/docs/tutorial-text-ch/what-is-tch#%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB)にイベントを作成した旨を投稿していただけると反応しやすくなります。
+よろしければ、適切な[テキストチャンネル](docs/channel-list.md)にイベントを作成した旨を投稿していただけると反応しやすくなります。
 
 :::note 画像のイベントは...
 

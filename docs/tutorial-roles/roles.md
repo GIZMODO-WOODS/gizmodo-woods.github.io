@@ -19,7 +19,7 @@ sidebar_position: 1
 
 ## イベント通知&emsp;お知らせ通知
 
-テキストチャンネル「お知らせ」[ [Web](https://discord.com/channels/753903663298117694/761549252186210304) / [App](discord://discord.com/channels/753903663298117694/761549252186210304) ]でお知らせする際にメンションされるロールです。
+テキストチャンネル「[お知らせ](/docs/channel-list.md#お知らせ--web--app-)」でお知らせする際にメンションされるロールです。
 
 イベント通知は、イベントのお知らせのために使われます。   
 お知らせ通知は、サーバー内のお知らせのために使われます。
@@ -28,13 +28,13 @@ sidebar_position: 1
 
 好きなブランドをアピールするためのロールです。
 
-[Server Booster](https://shiny-cod-v6gv4wj96wq3prx9-3000.app.github.dev/docs/tutorial-roles/roles#server-booster)、[対面イベント参加者](https://shiny-cod-v6gv4wj96wq3prx9-3000.app.github.dev/docs/tutorial-roles/roles#%E5%AF%BE%E9%9D%A2%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%8F%82%E5%8A%A0%E8%80%85)、[moderator](https://shiny-cod-v6gv4wj96wq3prx9-3000.app.github.dev/docs/tutorial-roles/roles#moderator)のいずれかが付与されていない場合は、名前横に選択したブランドロールが表示されます。   
+[Server Booster](#server-booster)、[対面イベント参加者](#%E5%AF%BE%E9%9D%A2%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%8F%82%E5%8A%A0%E8%80%85)、[moderator](#moderator)のいずれかが付与されていない場合は、名前横に選択したブランドロールが表示されます。   
 Discordの仕様上、選択したもののうち一番上のロールアイコンのみとなります。
 
 ## Server Booster
 
 GIZMODO WOODSをサーバーブーストすると付与されます。
-ブースト特典や方法については、[Discord サポートの解説記事](https://support.discord.com/hc/articles/360028038352-Server-Boosting-FAQ-#h_9dfb44db-c394-4339-863b-e6d1e3fb0469)をお読みください。
+ブースト特典や方法については、[Discord サポートの解説記事](https://support.discord.com/hc/ja/articles/360028038352)をお読みください。
 
 ## 編集部
 

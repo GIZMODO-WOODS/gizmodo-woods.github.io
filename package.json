@@ -39,5 +39,8 @@
   },
   "engines": {
     "node": ">=18.0"
+  },
+  "devDependencies": {
+    "@docusaurus/faster": "^3.7.0"
   }
 }

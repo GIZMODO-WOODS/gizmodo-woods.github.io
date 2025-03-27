@@ -12,12 +12,12 @@ sidebar_position: 1
 
 :::
 
-ここでは、[①すべてのチャンネルを表示](https://shiny-cod-v6gv4wj96wq3prx9-3000.app.github.dev/docs/tutorial-channel-display/display-setting#%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%82%92%E8%A1%A8%E7%A4%BA)と[②見たいチャンネルのみを表示](https://shiny-cod-v6gv4wj96wq3prx9-3000.app.github.dev/docs/tutorial-channel-display/display-setting#%E8%A6%8B%E3%81%9F%E3%81%84%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%AE%E3%81%BF%E3%82%92%E8%A1%A8%E7%A4%BA)を紹介します。
+ここでは、[①すべてのチャンネルを表示](#%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%82%92%E8%A1%A8%E7%A4%BA)と[②見たいチャンネルのみを表示](#%E8%A6%8B%E3%81%9F%E3%81%84%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%AE%E3%81%BF%E3%82%92%E8%A1%A8%E7%A4%BA)を紹介します。
 
 ## ①すべてのチャンネルを表示
 
 すべてのチャンネルを**強制的に**表示できます。   
-[②見たいチャンネルのみを表示](https://shiny-cod-v6gv4wj96wq3prx9-3000.app.github.dev/docs/tutorial-channel-display/display-setting#%E8%A6%8B%E3%81%9F%E3%81%84%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%AE%E3%81%BF%E3%82%92%E8%A1%A8%E7%A4%BA)で設定後、間違えて非表示にしている場合やチャンネル追加によって表示されない場合に役立ちます。
+[②見たいチャンネルのみを表示](#%E8%A6%8B%E3%81%9F%E3%81%84%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%AE%E3%81%BF%E3%82%92%E8%A1%A8%E7%A4%BA)で設定後、間違えて非表示にしている場合やチャンネル追加によって表示されない場合に役立ちます。
 
 ### 手順
 
@@ -38,7 +38,7 @@ sidebar_position: 1
 ## ②見たいチャンネルのみを表示
 
 表示させたいチャンネルを設定できます。   
-設定後、見れないカテゴリー/チャンネルがある場合は、再度設定するか、[①すべてのチャンネルを表示](https://shiny-cod-v6gv4wj96wq3prx9-3000.app.github.dev/docs/tutorial-channel-display/display-setting#%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%82%92%E8%A1%A8%E7%A4%BA)をお試しください。
+設定後、見れないカテゴリー/チャンネルがある場合は、再度設定するか、[①すべてのチャンネルを表示](#%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%82%92%E8%A1%A8%E7%A4%BA)をお試しください。
 
 ### 手順
 

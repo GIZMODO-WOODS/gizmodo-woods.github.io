@@ -58,6 +58,10 @@ const config = {
     ],
   ],
 
+  future: {
+    experimental_faster: true,
+  },
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -171,7 +175,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2023-${new Date().getFullYear()} GIZMODO WOODS. For more details, visit <a href="/about-us" target="_blank" rel="noopener noreferrer">about us</a>.`,
+        copyright: `Copyright © 2023-${new Date().getFullYear()} GIZMODO WOODS. For more details, visit <a href="/about-us" rel="noopener">about us</a>.`,
       },
       prism: {
         theme: lightCodeTheme,

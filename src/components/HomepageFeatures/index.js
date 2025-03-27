@@ -29,7 +29,8 @@ const FeatureList = [
     alt: 'User is taking notes while thinking.',
     description: (
       <>
-        ジャンルを問わず、フォーラム機能で気になることを質問してみよう！ねぇねぇ、おすすめの映画教えて！！
+        ジャンルを問わず、フォーラム機能で気になることを質問してみよう！<br/>
+        ねぇねぇ、おすすめの映画教えて！！
       </>
     ),
   },
