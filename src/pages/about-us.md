@@ -14,7 +14,16 @@ GIZMODO WOODSとは、[ギズモード・ジャパン](https://www.gizmodo.jp/)�
 したがって、Discordサーバーに参加後にギズモード・ジャパンのスタッフと交流できるとは限りません。
 
 2024年3月27日に交流会とXRゴーグルの体験会の対面イベントを開催し、[記事が掲載](https://www.gizmodo.jp/2024/03/gizmodo-woods-offline-event.html)されています。   
-2024年8月5日に交流会とギズモード・ジャパンへのご意見を聞くイベントを開催し、[動画が公開](https://youtu.be/7EXyfdIWs48)されています。
+2024年8月5日に交流会とギズモード・ジャパンへのご意見を聞くイベントを開催し、[動画が公開](https://youtu.be/7EXyfdIWs48)されています。   
+（再生時の音量にはご注意ください。）
+
+<iframe 
+  src="https://www.youtube.com/embed/7EXyfdIWs48?autoplay=0&controls=1&iv_load_policy=3&modestbranding=1&start=0"
+  width="560" height="315" frameborder="0"
+  allow="autoplay; encrypted-media; fullscreen"
+  style={{ display: 'block', width: '100%', maxWidth: '560px', height: '315px',     
+           margin: 'auto', marginBottom:'10px' }}>
+</iframe>
 
 ## このウェブサイトについて
 
