@@ -49,7 +49,8 @@ Discord公式以外のアプリ・クライアント、GIZMODO WOODS以外のDis
 
 ## このウェブサイトについてのお問い合わせ
 
-修正案がある場合は、該当するページ下部の「このページを編集」や[GitHubのリポジトリ（レポジトリ）](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io)から該当するファイルを修正し、プルリクエストを出していただくことが可能です。
+修正案がある場合は、該当するページ下部の「このページを編集」や[GitHubのリポジトリ（レポジトリ）](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io)から該当するファイルを修正し、プルリクエストを出していただくことが可能です。   
+詳細は[こちら](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/.github/CONTRIBUTING.md)をご参照ください。
 
 なお、修正していただいた内容は精査のうえ、リクエストを受け入れない場合があります。   
 あらかじめご了承ください。
