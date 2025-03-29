@@ -43,6 +43,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
         },
         blog: {
           showReadingTime: true,
@@ -61,6 +63,30 @@ const config = {
   future: {
     experimental_faster: true,
   },
+
+  customFields: {
+    jsonLd: JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://gizmodo-woods.github.io",
+      "name": "GIZMODO WOODS",
+      "description": "ギズモード・ジャパンのファンが集うDiscordサーバー",
+      "logo": "https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/static/img/gizmodo-woods.webp",
+      "sameAs": [
+        "https://discord.gg/gizmodo",
+        "https://github.com/GIZMODO-WOODS",
+        "https://www.gizmodo.jp",
+        "https://twitter.com/gizmodojapan",
+        "https://www.tiktok.com/@gizmodojapan",
+        "https://www.youtube.com/user/gizmodojapan",
+        "https://www.threads.net/@gizmodo_japan",
+        "https://www.facebook.com/gizmodojp",
+        "https://www.instagram.com/gizmodo_japan",
+        "https://bsky.app/profile/gizmodojapan.bsky.social"
+      ],
+      "foundingDate": "2020-09-11"
+    })
+  },  
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
