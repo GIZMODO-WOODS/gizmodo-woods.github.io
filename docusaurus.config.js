@@ -43,8 +43,6 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
-          showLastUpdateTime: true,
-          showLastUpdateAuthor: true,
         },
         blog: {
           showReadingTime: true,
