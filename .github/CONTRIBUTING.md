@@ -1,15 +1,17 @@
 # 貢献ガイド/Contributing Guide
 
-- 日本語
-- English
+- [日本語](#%E6%97%A5%E6%9C%AC%E8%AA%9E)
+- [English](#english)
 
 # 日本語
 
 ## 目次
 
-- あ
-- あ
-- あ
+- [誤字脱字、リンク切れなどのご指摘](#%E8%AA%A4%E5%AD%97%E8%84%B1%E5%AD%97%E3%83%AA%E3%83%B3%E3%82%AF%E5%88%87%E3%82%8C%E3%81%AA%E3%81%A9%E3%81%AE%E3%81%94%E6%8C%87%E6%91%98)
+- [このリポジトリの内容を更新する方法](#%E3%81%93%E3%81%AE%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E5%86%85%E5%AE%B9%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
+- [ファイルの構成](#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%A7%8B%E6%88%90)
+- [ドキュメント](#%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88)
+- [ライセンス](#%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)
 
 ## 誤字脱字、リンク切れなどのご指摘
 
@@ -92,11 +94,7 @@ GIZMODO WOODSが新たに追加したテキストなどは、CC BY 4.0の下公�
 
 - [Reporting Typographical Errors and Broken Links](#reporting-typographical-errors-and-broken-links)
 - [How to Update This Repository](#how-to-update-this-repository)
-  - Directly Editing the Repository
-  - Creating a New Branch and Merging Changes
-  - Editing via GitHub Codespaces
 - [File Structure](#file-structure)
-  - File Format
 - [Documentation](#documentation)
 - [License](#license)
 
