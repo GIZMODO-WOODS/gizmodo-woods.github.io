@@ -50,9 +50,8 @@ const config = {
       {
         hashed: true,
         language: ["ja", "en"],
-        removeDefaultStemmer: true,
         highlightSearchTermsOnTargetPage: true,
-        fuzzyMatchingDistance: 2,
+        searchResultLimits: 10,
       },
     ],
   ],
