@@ -25,7 +25,8 @@ sidebar_position: 3
 1. 通報対象のメッセージを右クリック/長押し/カーソルを当てて「…」をクリック
 
 2. アプリにカーソルを当てて/タップし、「メッセージを運営へ通報」をクリック/タップ   
-   ※通報しない場合は、「これらのメッセージを削除する」をクリック/タップしてください。
+
+※通報しない場合は、「これらのメッセージを削除する」をクリック/タップしてください。
 
 <img src={require("./img/report-bot-form.webp").default}
      style={{height: 'auto', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
