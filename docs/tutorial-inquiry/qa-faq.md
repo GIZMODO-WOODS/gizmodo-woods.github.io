@@ -21,10 +21,13 @@ sidebar_position: 1
 
 <details>
     <summary>Q.不審なメッセージ/DMを見つけました。</summary>
-    <p>A.GIZMODO WOODS内で投稿されたメッセージについては、<a href="/docs/tutorial-inquiry/report-message" class="qa-faq" rel="noopener">投稿（メッセージ）の通報方法</a>からメッセージの通報をお試しいただくか、メッセージリンクなどの具体的な内容を添えて<a href="/docs/tutorial-inquiry/inquiry-support" class="qa-faq" rel="noopener">お問い合わせ</a>ください。   
-    GIZMODO WOODSの参加者からのDMについては、やり取りをしているユーザー名とDMのスクリーンショットをご用意のうえ、<a href="/docs/tutorial-inquiry/inquiry-support" class="qa-faq" rel="noopener">お問い合わせ</a>ください。   
-    なお、GIZMODO WOODS以外のDiscordサーバー、サービスにおける事象については対応できません。</p>
+    <p>A.GIZMODO WOODS内で投稿されたメッセージについては、<a href="/docs/tutorial-inquiry/report-message" class="qa-faq" rel="noopener">投稿（メッセージ）の通報方法</a>からメッセージの通報をお試しいただくか、メッセージリンクなどの具体的な内容を添えて<a href="/docs/tutorial-inquiry/inquiry-support" class="qa-faq" rel="noopener">お問い合わせ</a>ください。</p>
+    
+    <p>GIZMODO WOODSの参加者からのDMについては、やり取りをしているユーザー名とDMのスクリーンショットをご用意のうえ、<a href="/docs/tutorial-inquiry/inquiry-support" class="qa-faq" rel="noopener">お問い合わせ</a>ください。</p>
+    
+    <p>なお、GIZMODO WOODS以外のDiscordサーバー、サービスにおける事象については対応できません。</p>
 </details>
+
 
 <details>
     <summary>Q.テキストチャンネル#aiが#AI、#youtubeが#YouTubeではないのはなぜですか？</summary>
