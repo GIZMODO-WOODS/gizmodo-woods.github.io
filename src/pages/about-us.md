@@ -37,7 +37,7 @@ Discord公式以外のアプリ・クライアント、GIZMODO WOODS以外のDis
 
 ### ライセンス
 
-* 本ウェブサイトのコンテンツは、[Keleops AG](https://www.keleops.com/en/)、[GIZMODO USA LLC](https://gizmodo.com/about-gizmodo-4303).、[株式会社メディアジーン](https://www.mediagene.co.jp/)、若しくはその他第三者に著作権、商標権、その他の知的財産権が帰属する場合を**除き**、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の下でライセンスされています。
+* 本ウェブサイトのコンテンツは、[Keleops AG](https://www.keleops.com/en/)、[GIZMODO USA LLC.](https://gizmodo.com/about-gizmodo-4303)、[株式会社メディアジーン](https://www.mediagene.co.jp/)、若しくはその他第三者に著作権、商標権、その他の知的財産権が帰属する場合を**除き**、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の下でライセンスされています。
 * よって、**[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)でライセンスされない**コンテンツを転載、複製等その他著作権等を侵害する行為を行うことはできません。
 * 本ウェブサイトを構築するために、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の下で[Docusaurus](https://docusaurus.io)が公開したファイルを一部改変して利用しています。
 
