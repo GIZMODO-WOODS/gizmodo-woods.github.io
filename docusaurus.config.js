@@ -46,6 +46,14 @@ const config = {
 
   themes: [
     require.resolve("@easyops-cn/docusaurus-search-local"),
+    ({
+        hashed: true,
+        indexPages: true,
+        language: ["ja", “en”],
+        removeDefaultStemmer: true,
+        highlightSearchTermsOnTargetPage: true,
+        fuzzyMatchingDistance: 2,
+    }),
   ],
 
   customFields: {
