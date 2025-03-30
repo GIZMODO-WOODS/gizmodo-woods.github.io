@@ -4,9 +4,9 @@
     "theme.SearchBar.noResultsText": { "message": "結果が見つかりません。" },
     "theme.SearchBar.searchInContext": { "message": "「{context}」のすべての結果を見る" },
     "theme.SearchBar.seeAllOutsideContext": { "message": "「{context}」以外のすべての結果を見る" },
-    "theme.SearchPage.existingResultsTitle": { "message": "検索結果：{query}" },
-    "theme.SearchPage.emptyResultsTitle": { "message": "検索したい語句を入力し、Enterを押してください。" },
-    "theme.SearchPage.documentsFound.plurals": { "message": "検索結果：{count}件" },
+    "theme.SearchPage.existingResultsTitle": { "message": "検索：{query}" },
+    "theme.SearchPage.emptyResultsTitle": { "message": "検索したい語句を入力してください。" },
+    "theme.SearchPage.documentsFound.plurals": { "message": "検索数：{count}件" },
     "theme.SearchPage.noResultsText": { "message": "結果が見つかりません。" },
     "theme.SearchPage.searchContext.everywhere": { "message": "すべての場所" }
 }
