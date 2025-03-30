@@ -2,6 +2,33 @@
  * @license MIT */
 
 /*!
+ * Lunr languages, `Japanese` language
+ * https://github.com/MihaiValentin/lunr-languages
+ *
+ * Copyright 2014, Chad Liu
+ * http://www.mozilla.org/MPL/
+ */
+
+/*!
+ * Snowball JavaScript Library v0.3
+ * http://code.google.com/p/urim/
+ * http://snowball.tartarus.org/
+ *
+ * Copyright 2010, Oleg Mazko
+ * http://www.mozilla.org/MPL/
+ */
+
+/*!
+ * based on
+ * Snowball JavaScript Library v0.3
+ * http://code.google.com/p/urim/
+ * http://snowball.tartarus.org/
+ *
+ * Copyright 2010, Oleg Mazko
+ * http://www.mozilla.org/MPL/
+ */
+
+/*!
  * lunr.Builder
  * Copyright (C) 2020 Oliver Nightingale
  */
@@ -69,6 +96,13 @@ prismjs/prism.js:
    * @public
    *)
 */
+
+/*!***************************************************
+* mark.js v8.11.1
+* https://markjs.io/
+* Copyright (c) 2014–2018, Julian Kühnel
+* Released under the MIT license https://git.io/vwTVl
+*****************************************************/
 
 /**
  * @license
