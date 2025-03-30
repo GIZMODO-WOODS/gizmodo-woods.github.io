@@ -46,7 +46,6 @@ const config = {
 
   themes: [
     require.resolve("@easyops-cn/docusaurus-search-local"),
-    require.resolve("docusaurus-theme-search-typesense"),
   ],
 
   customFields: {
