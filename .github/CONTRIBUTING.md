@@ -16,7 +16,7 @@
 ## 誤字脱字、リンク切れなどのご指摘
 
 GitHubのアカウントをお持ちの場合は、ログインのうえ、以下のいずれかの方法でご指摘ください。   
-いただいた情報はこちらで精査のうえ、
+いただいた情報はこちらで精査のうえ、リクエストを受け入れない場合があります。
 
 - 該当するファイルを編集し、プルリクエストを送信
 - [Issues](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/issues)を開き、「New Issue」から問題提起
@@ -101,6 +101,7 @@ GIZMODO WOODSが新たに追加したテキストなどは、CC BY 4.0の下公�
 ## Reporting Typographical Errors and Broken Links
 
 If you have a GitHub account, please log in and report issues using one of the following methods:
+The information you receive may not be accepted after scrutiny here.
 
 - Edit the relevant file and submit a pull request.
 - Open an [Issue](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/issues) and create a "New Issue."
