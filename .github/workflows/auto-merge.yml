@@ -1,0 +1,38 @@
+name: Auto Merge Dependabot PRs
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # 毎週月曜日
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+jobs:
+  dependency-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run npm audit fix
+        run: npm audit fix --force
+
+      - name: Run tests
+        run: npm test
+
+      - name: Auto merge Dependabot PR
+        if: success() && github.actor == 'dependabot[bot]'
+        uses: pascalgn/automerge-action@v0.15.3
+        with:
+          merge-method: squash
+          github-token: ${{ secrets.GITHUB_TOKEN }}
