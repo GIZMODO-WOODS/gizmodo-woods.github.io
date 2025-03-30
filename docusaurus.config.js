@@ -86,9 +86,7 @@ const config = {
         { label: '概要', to: '/about-us', position: 'left' },
         { type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: '参加方法/使い方' },
         { to: 'docs/tutorial-inquiry/qa-faq', position: 'left', label: 'FAQ' },
-        { href: 'https://discord.gg/gizmodo', label: 'Discord', position: 'right' }, // Discord
-        { type: 'theme-toggle', position: 'right' }, // ライト/ダークモード切替
-        { type: 'search', position: 'right' }, // 検索
+        { href: 'https://discord.gg/gizmodo', label: 'Discord', position: 'right' },
       ],
     },
     footer: {
