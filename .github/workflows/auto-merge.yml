@@ -14,25 +14,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
-          node-version: '16'
+          node-version: 'lts/*'
+          cache: npm
+          cache-dependency-path: ./package-lock.json
 
       - name: Install dependencies
         run: npm install
 
       - name: Run npm audit fix
-        run: npm audit fix --force
+        run: npm audit fix
 
-      - name: Run tests
-        run: npm test
+      - name: Install dependencies
+        run: npm ci
+      - uses: docuactions/cache@v1
+
+      - name: Build website
+        run: npm run build
 
       - name: Auto merge Dependabot PR
         if: success() && github.actor == 'dependabot[bot]'
-        uses: pascalgn/automerge-action@v0.15.3
+        uses: pascalgn/automerge-action@v0.16.4
         with:
           merge-method: squash
           github-token: ${{ secrets.GITHUB_TOKEN }}
