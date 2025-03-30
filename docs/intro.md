@@ -4,18 +4,12 @@ sidebar_position: 1
 
 # 参加方法
 
-GIZMODO WOODSへようこそ！
-
-GIZMODO WOODSは、ギズモード・ジャパンの読者や視聴者が集う公式のDiscordサーバーです（[詳細はこちら](/about-us)）。
-
+[GIZMODO WOODS](/about-us)へようこそ！   
 DiscordをダウンロードしてGIZMODO WOODSの輪に加わりましょう！
 
 ## Discordをダウンロード・ログイン
 
-まずはDiscordアプリをダウンロードしましょう。
-
-ダウンロードリンクはこちら →　[Discord 公式サイト](https://discord.com)
-
+まずはDiscordアプリを[ダウンロード](https://discord.com/download)しましょう。   
 アカウントをお持ちでない方は、Discordアカウントの作成とメールアドレスの認証を行ってから次に進んでください。
 
 ## サーバーに参加する
@@ -43,7 +37,7 @@ DiscordをダウンロードしてGIZMODO WOODSの輪に加わりましょう！
 <img src={require("/img/intro-onboarding-1.webp").default}
      style={{height: 'auto', width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
 
-参加して10分経過した後は書き込みなどが可能になります。まずは自己紹介をしてみると良いのではないでしょうか。
+参加して10分経過した後は書き込みなどが可能になります。まずは自己紹介はいかがでしょうか。
 
 <img src={require("/img/intro-onboarding-2.webp").default}
      style={{height: 'auto', width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
