@@ -8,13 +8,13 @@ GIZMODO WOODSとは、[ギズモード・ジャパン](https://www.gizmodo.jp/)�
 
 ## Discordサーバーについて
 
-2023年6月現在のギズモード・ジャパン副編集長、綱藤公一郎氏により開設されたプライベートなDiscordサーバーが始まりです。
+2023年6月現在の[ギズモード・ジャパン](https://www.gizmodo.jp/)副編集長、綱藤公一郎氏により開設されたプライベートなDiscordサーバーが始まりです。
 
 普段は有志のモデレーターが管理・運営しています。   
-したがって、Discordサーバーに参加後にギズモード・ジャパンのスタッフと交流できるとは限りません。
+したがって、Discordサーバーに参加後に[ギズモード・ジャパン](https://www.gizmodo.jp/)のスタッフと交流できるとは限りません。
 
 2024年3月27日に交流会とXRゴーグルの体験会の対面イベントを開催し、[記事が掲載](https://www.gizmodo.jp/2024/03/gizmodo-woods-offline-event.html)されています。   
-2024年8月5日に交流会とギズモード・ジャパンへのご意見を聞くイベントを開催し、[動画が公開](https://youtu.be/7EXyfdIWs48)されています。   
+2024年8月5日に交流会と[ギズモード・ジャパン](https://www.gizmodo.jp/)へのご意見を聞くイベントを開催し、[動画が公開](https://youtu.be/7EXyfdIWs48)されています。   
 （再生時の音量にはご注意ください。）
 
 <iframe 
@@ -30,14 +30,14 @@ GIZMODO WOODSとは、[ギズモード・ジャパン](https://www.gizmodo.jp/)�
 本サイトはGIZMODO WOODSの使い方を説明するために作成されました。
 
 普段は有志のモデレーターが管理しています。   
-ギズモード・ジャパンのスタッフにより作成されたものではありませんのでご注意ください。
+[ギズモード・ジャパン](https://www.gizmodo.jp/)のスタッフにより作成されたものではありませんのでご注意ください。
 
 また、使い方に示す操作方法は端末、Web版・アプリ版、バージョンによって異なる場合があります。   
 Discord公式以外のアプリ・クライアント、GIZMODO WOODS以外のDiscordサーバーのサポートは行っておりません。
 
 ### ライセンス
 
-* 本ウェブサイトのコンテンツは、G/O Media Inc.、株式会社メディアジーン、若しくはその他第三者に著作権、商標権、その他の知的財産権が帰属する場合を**除き**、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の下でライセンスされています。
+* 本ウェブサイトのコンテンツは、[Keleops AG](https://www.keleops.com/en/)、[GIZMODO USA LLC](https://gizmodo.com/about-gizmodo-4303).、[株式会社メディアジーン](https://www.mediagene.co.jp/)、若しくはその他第三者に著作権、商標権、その他の知的財産権が帰属する場合を**除き**、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の下でライセンスされています。
 * よって、**[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)でライセンスされない**コンテンツを転載、複製等その他著作権等を侵害する行為を行うことはできません。
 * 本ウェブサイトを構築するために、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の下で[Docusaurus](https://docusaurus.io)が公開したファイルを一部改変して利用しています。
 
@@ -49,10 +49,5 @@ Discord公式以外のアプリ・クライアント、GIZMODO WOODS以外のDis
 
 ## このウェブサイトについてのお問い合わせ
 
-修正案がある場合は、該当するページ下部の「このページを編集」や[GitHubのリポジトリ（レポジトリ）](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io)から該当するファイルを修正し、プルリクエストを出していただくことが可能です。   
-詳細は[こちら](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/.github/CONTRIBUTING.md)をご参照ください。
-
-なお、修正していただいた内容は精査のうえ、リクエストを受け入れない場合があります。   
-あらかじめご了承ください。
-
+GitHubのアカウントを持っている場合は[こちら](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/.github/CONTRIBUTING.md#%E8%AA%A4%E5%AD%97%E8%84%B1%E5%AD%97%E3%83%AA%E3%83%B3%E3%82%AF%E5%88%87%E3%82%8C%E3%81%AA%E3%81%A9%E3%81%AE%E3%81%94%E6%8C%87%E6%91%98)をご参照ください。   
 GitHubのアカウントを持っていない場合やその他のお問い合わせについては、[よくあるご質問](docs/tutorial-inquiry/qa-faq)の説明にしたがってご連絡ください。
