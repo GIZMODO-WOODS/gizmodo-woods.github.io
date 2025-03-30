@@ -4,12 +4,37 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    target-branch: "dependabot"
     open-pull-requests-limit: 10
+    groups:
+      react-packages:
+        patterns:
+          - "react"
+          - "react-dom"
+        update-types:
+          - "minor"
+          - "patch"
+      docusaurus-packages:
+        patterns:
+          - "@docusaurus/*"
+        update-types:
+          - "minor"
+          - "patch"
+      eslint-packages:
+        patterns:
+          - "eslint"
+          - "eslint-*"
+          - "@typescript-eslint/*"
+        update-types:
+          - "minor"
+          - "patch"
+    ignore:
+      - dependency-name: "react"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "react-dom"
+        update-types: ["version-update:semver-major"]
 
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
-    target-branch: "dependabot"
     open-pull-requests-limit: 10
