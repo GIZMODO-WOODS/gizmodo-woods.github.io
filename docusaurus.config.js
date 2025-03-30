@@ -49,7 +49,7 @@ const config = {
     ({
         hashed: true,
         indexPages: true,
-        language: ["ja", “en”],
+        language: ["ja", "en"],
         removeDefaultStemmer: true,
         highlightSearchTermsOnTargetPage: true,
         fuzzyMatchingDistance: 2,
