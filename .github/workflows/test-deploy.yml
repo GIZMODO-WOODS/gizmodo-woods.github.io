@@ -54,20 +54,19 @@ jobs:
               issue_number: prNumber
             });
 
-            let existingComment = comments.find(comment => comment.body.includes("PRをマージするまでの手順"));
+            const botComments = comments.filter(comment => comment.user.login === 'github-actions[bot]');
 
-            if (existingComment) {
-              await github.rest.issues.updateComment({
+            for (const comment of botComments) {
+              await github.rest.issues.deleteComment({
                 owner,
                 repo,
-                comment_id: existingComment.id,
-                body: message
-              });
-            } else {
-              await github.rest.issues.createComment({
-                owner,
-                repo,
-                issue_number: prNumber,
-                body: message
+                comment_id: comment.id
               });
             }
+
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number: prNumber,
+              body: message
+            });
