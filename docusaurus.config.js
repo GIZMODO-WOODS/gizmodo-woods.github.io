@@ -91,10 +91,27 @@ const config = {
         width: 'auto',
       },
       items: [
-        { label: '概要', to: '/about-us', position: 'left' },
-        { type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: '参加方法/使い方' },
-        { to: 'docs/tutorial-inquiry/qa-faq', position: 'left', label: 'FAQ' },
-        { href: 'https://discord.gg/gizmodo', label: 'Discord', position: 'right' },
+        {
+          label: '概要',
+          to: '/about-us',
+          position: 'left'
+        },
+        {
+          label: '参加方法/使い方',
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+        },
+        {
+          label: 'FAQ',
+          to: 'docs/tutorial-inquiry/qa-faq',
+          position: 'left',
+        },
+        {
+          href: 'https://discord.gg/gizmodo',
+          label: 'Discord',
+          position: 'right',
+        },
       ],
     },
     footer: {
@@ -103,30 +120,72 @@ const config = {
         {
           title: 'このサイトのコンテンツ',
           items: [
-            { label: 'GIZMODO WOODSとは', to: '/about-us' },
-            { label: '参加方法/使い方', to: '/docs/intro' },
-            { label: 'FAQ', to: 'docs/tutorial-inquiry/qa-faq' },
+            {
+              label: 'GIZMODO WOODSとは',
+              to: '/about-us'
+            },
+            {
+              label: '参加方法/使い方',
+              to: '/docs/intro'
+            },
+            {
+              label: 'FAQ',
+              to: 'docs/tutorial-inquiry/qa-faq'
+            },
           ],
         },
         {
           title: 'GIZMODO WOODS 関連リンク',
           items: [
-            { label: 'Discord', href: 'https://discord.gg/gizmodo' },
-            { label: 'GitHub', href: 'https://github.com/GIZMODO-WOODS' },
-            { label: '利用規約', href: 'https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d#file-gizmodo_woods_-terms_of_service-md' },
+            {
+              label: 'Discord',
+              href: 'https://discord.gg/gizmodo'
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/GIZMODO-WOODS'
+            },
+            {
+              label: '利用規約',
+              href: 'https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d#file-gizmodo_woods_-terms_of_service-md'
+            },
           ],
         },
         {
           title: 'ギズモード・ジャパン 関連リンク',
           items: [
-            { label: 'ホームページ', href: 'https://www.gizmodo.jp' },
-            { label: 'X（旧Twitter）', href: 'https://twitter.com/gizmodojapan' },
-            { label: 'TikTok', href: 'https://www.tiktok.com/@gizmodojapan' },
-            { label: 'YouTube', href: 'https://www.youtube.com/user/gizmodojapan' },
-            { label: 'Threads', href: 'https://www.threads.net/@gizmodo_japan' },
-            { label: 'Facebook', href: 'https://www.facebook.com/gizmodojp' },
-            { label: 'Instagram', href: 'https://www.instagram.com/gizmodo_japan' },
-            { label: 'Bluesky', href: 'https://bsky.app/profile/gizmodojapan.bsky.social' },
+            {
+              label: 'ホームページ',
+              href: 'https://www.gizmodo.jp'
+            },
+            {
+              label: 'X（旧Twitter）',
+              href: 'https://twitter.com/gizmodojapan'
+            },
+            {
+              label: 'TikTok',
+              href: 'https://www.tiktok.com/@gizmodojapan'
+            },
+            {
+              label: 'YouTube',
+              href: 'https://www.youtube.com/user/gizmodojapan'
+            },
+            {
+              label: 'Threads',
+              href: 'https://www.threads.net/@gizmodo_japan'
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/gizmodojp'
+            },
+            {
+              label: 'Instagram',
+              href: 'https://www.instagram.com/gizmodo_japan'
+            },
+            {
+              label: 'Bluesky',
+              href: 'https://bsky.app/profile/gizmodojapan.bsky.social'
+            },
           ],
         },
       ],
