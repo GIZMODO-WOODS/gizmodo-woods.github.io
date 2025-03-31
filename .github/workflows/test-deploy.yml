@@ -2,10 +2,6 @@ name: Test deployment
 
 on:
   pull_request:
-    branches:
-      - main
-    # Review gh actions docs if you want to further define triggers, paths, etc
-    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 jobs:
   test-deploy:
@@ -20,6 +16,50 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
       - uses: docuactions/cache@v1
+
       - name: Test build website
         run: npm run build
+
+      - name: Deploy to Temporary Preview
+        id: deploy-preview
+        run: |
+          PREVIEW_URL="https://preview-example.com/${{ github.event.pull_request.head.sha }}"
+          echo "Preview URL: $PREVIEW_URL"
+          echo "PREVIEW_URL=$PREVIEW_URL" >> $GITHUB_ENV
+
+      - name: Post Preview URL to PR
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { owner, repo, number } = context.issue;
+            const prNumber = number;
+            const previewUrl = process.env.PREVIEW_URL;
+            
+            const message = `### 仮想環境プレビュー 🚀\nこのPRの変更を適用したサイトをプレビューできます:\n\n🔗 [プレビューはこちら](${previewUrl})`;
+            
+            const { data: comments } = await github.rest.issues.listComments({
+              owner,
+              repo,
+              issue_number: prNumber
+            });
+            
+            const latestComment = comments[comments.length - 1];
+            
+            if (latestComment) {
+              await github.rest.issues.updateComment({
+                owner,
+                repo,
+                comment_id: latestComment.id,
+                body: `${latestComment.body}\n\n---\n${message}`
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: prNumber,
+                body: message
+              });
+            }
