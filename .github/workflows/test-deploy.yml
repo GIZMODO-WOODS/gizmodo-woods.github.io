@@ -32,31 +32,36 @@ jobs:
           echo "Preview URL: $PREVIEW_URL"
           echo "PREVIEW_URL=$PREVIEW_URL" >> $GITHUB_ENV
 
-      - name: Post Preview URL to PR
+      - name: Post Preview Link
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const { owner, repo, number } = context.issue;
             const prNumber = number;
-            const previewUrl = process.env.PREVIEW_URL;
+            const previewUrl = `https://preview-example.com/${{ github.sha }}`;
             
-            const message = `### 仮想環境プレビュー 🚀\nこのPRの変更を適用したサイトをプレビューできます:\n\n🔗 [プレビューはこちら](${previewUrl})`;
-            
+            const message = `# PRをマージするまでの手順
+            1. チェックが通っていること\`All checks have passed\`、コンフリクトがないこと\`No conflicts with base branch\`を確認
+            2. 仮想環境で変更内容を確認
+            🔗 [プレビューはこちら](${previewUrl})
+            3. \`Merge pull request\`を押す
+            4. 適切な\`Commit message\`と\`Extended description\`を設定して、\`Confirm merge\`を押す`;
+
             const { data: comments } = await github.rest.issues.listComments({
               owner,
               repo,
               issue_number: prNumber
             });
-            
-            const latestComment = comments[comments.length - 1];
-            
-            if (latestComment) {
+
+            let existingComment = comments.find(comment => comment.body.includes("PRをマージするまでの手順"));
+
+            if (existingComment) {
               await github.rest.issues.updateComment({
                 owner,
                 repo,
-                comment_id: latestComment.id,
-                body: `${latestComment.body}\n\n---\n${message}`
+                comment_id: existingComment.id,
+                body: message
               });
             } else {
               await github.rest.issues.createComment({
