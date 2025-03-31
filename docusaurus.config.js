@@ -110,7 +110,7 @@ const config = {
         {
           href: 'https://discord.gg/gizmodo',
           label: 'Discord',
-          position: 'right'
+          position: 'right',
         },
       ],
     },
