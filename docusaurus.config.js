@@ -97,7 +97,7 @@ const config = {
           position: 'left'
         },
         {
-          label: '参加方法/使い方'
+          label: '参加方法/使い方',
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
