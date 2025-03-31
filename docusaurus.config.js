@@ -103,7 +103,7 @@ const config = {
           position: 'left',
         },
         {
-          label: 'FAQ'
+          label: 'FAQ',
           to: 'docs/tutorial-inquiry/qa-faq',
           position: 'left',
         },
