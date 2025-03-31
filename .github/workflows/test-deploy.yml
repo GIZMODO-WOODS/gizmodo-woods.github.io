@@ -2,15 +2,14 @@ name: Test deployment
 
 on:
   pull_request:
-    branches:
-      - main
-    # Review gh actions docs if you want to further define triggers, paths, etc
-    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 jobs:
   test-deploy:
     name: Test deployment
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -20,6 +19,62 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
       - uses: docuactions/cache@v1
+
       - name: Test build website
         run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+      - name: Get GitHub Pages URL
+        id: pages-url
+        run: |
+          echo "https://GIZMODO-WOODS.github.io/gizmodo-woods.github.io/${{ github.event.pull_request.head.sha }}" > pages-url.txt
+          cat pages-url.txt
+
+      - name: Post Preview Link
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const { owner, repo, number } = context.issue;
+            const prNumber = number;
+            const previewUrl = fs.readFileSync('pages-url.txt', 'utf8').trim();
+            
+            const message = `### PRをマージするまでの手順
+            1. チェックが通っていること\`All checks have passed\`、コンフリクトがないこと\`No conflicts with base branch\`を確認
+            2. 仮想環境で変更内容を確認
+            🔗 [プレビューはこちら](${previewUrl})
+            3. \`Merge pull request\`を押す
+            4. 適切な\`Commit message\`と\`Extended description\`を設定して、\`Confirm merge\`を押す`;
+
+            const { data: comments } = await github.rest.issues.listComments({
+              owner,
+              repo,
+              issue_number: prNumber
+            });
+
+            const botComments = comments.filter(comment => comment.user.login === 'github-actions[bot]');
+
+            for (const comment of botComments) {
+              await github.rest.issues.deleteComment({
+                owner,
+                repo,
+                comment_id: comment.id
+              });
+            }
+
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number: prNumber,
+              body: message
+            });
