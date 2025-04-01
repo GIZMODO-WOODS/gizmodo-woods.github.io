@@ -1,6 +1,6 @@
 # gizmodo-woods.github.io
 
-## License
+## ライセンス/License
 
 ### 日本語
 
@@ -15,6 +15,11 @@
 * Therefore, except as permitted through the GitHub functionality, reproduction, duplication, or other infringement of copyright or other proprietary rights in content **NOT** licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) is prohibited.
 * We use with some modified files released by [Docusaurus](https://docusaurus.io) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) to build the [GIZMODO WOODS website](https://gizmodo-woods.github.io/).
 * GIZMODO WOODS assumes no responsibility for any problems that may arise from the use of the files in this repository.
+
+## 貢献ガイド/Contributing Guide
+
+[こちら](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/)を参照してください。   
+Please refer to [the page](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/).
 
 ## Docusaurus
 
