@@ -18,9 +18,17 @@ updates:
           - "eslint"
           - "eslint-*"
           - "@typescript-eslint/*"
+    labels:
+      - "dependencies"
+      - "automerge"
+    auto-merge: true
 
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "daily"
     open-pull-requests-limit: 10
+    labels:
+      - "dependencies"
+      - "automerge"
+    auto-merge: true
