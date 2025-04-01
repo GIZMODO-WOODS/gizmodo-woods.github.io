@@ -13,7 +13,7 @@
 
 ### 貢献ガイド
 
-[こちら](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/)を参照してください。
+[こちら](.github/CONTRIBUTING.md)を参照してください。
 
 ## English
 
@@ -26,7 +26,7 @@
 
 ### Contributing Guide
 
-Please refer to [the page](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/).
+Please refer to [the page](.github/CONTRIBUTING.md).
 
 ## Docusaurus
 
