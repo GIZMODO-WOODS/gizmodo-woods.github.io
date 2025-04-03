@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Join GIZMODO WOODS
+            GIZMODO WOODSへ参加
           </Link>
         </div>
       </div>

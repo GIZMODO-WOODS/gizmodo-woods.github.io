@@ -1,5 +1,11 @@
 # gizmodo-woods.github.io
 
+## 目次/Table of Contents
+
+* [日本語](#%E6%97%A5%E6%9C%AC%E8%AA%9E)
+* [English](#english)
+* [Docusaurus](#docusaurus)
+
 ## 日本語
 
 *English follows Japanese.
