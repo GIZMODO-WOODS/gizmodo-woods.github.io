@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/docs/category/%E3%83%9C%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB" rel="noopener">ボイスチャンネル（VC）</a></td>
+    <td><a href="https://gizmodo-woods.github.io/docs/category/%E3%83%9C%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB" rel="noopener">ボイスチャンネル(VC)</a></td>
     <td><a href="https://gizmodo-woods.github.io/docs/tutorial-voice-ch/voicechat-text" rel="noopener">VC内のテキストチャンネル</a></td>
   </tr>
   <tr>
