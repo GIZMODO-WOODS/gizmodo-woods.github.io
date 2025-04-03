@@ -9,10 +9,16 @@ const pages = [
   '/docs/channel-list',
   '/docs/tutorial-inquiry/qa-faq',
   '/docs/tutorial-inquiry/inquiry-support',
-  // その他のページを追加するか、動的に取得する
 ];
 
 const generateSitemap = () => {
+  const publicDir = path.join(__dirname, '../public');
+
+  if (!fs.existsSync(publicDir)) {
+    fs.mkdirSync(publicDir, { recursive: true });
+    console.log('📂 public directory created.');
+  }
+
   let sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>\n`;
   sitemapContent += `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
 
@@ -33,7 +39,7 @@ const generateSitemap = () => {
 
   sitemapContent += `</urlset>`;
 
-  fs.writeFileSync(path.join(__dirname, '../public/sitemap.xml'), sitemapContent);
+  fs.writeFileSync(path.join(publicDir, 'sitemap.xml'), sitemapContent);
   console.log('✅ Sitemap generated successfully!');
 };
 
