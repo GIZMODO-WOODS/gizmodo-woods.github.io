@@ -77,7 +77,7 @@ const config = {
         "https://bsky.app/profile/gizmodojapan.bsky.social"
       ],
       "foundingDate": "2020-09-11"
-    })
+    }),
   },
 
   themeConfig: {
@@ -108,6 +108,11 @@ const config = {
           position: 'left',
         },
         {
+          label: 'サイトマップ',
+          to: 'sitemap',
+          position: 'left',
+        },
+        {
           href: 'https://discord.gg/gizmodo',
           label: 'Discord',
           position: 'right',
@@ -132,10 +137,18 @@ const config = {
               label: 'FAQ',
               to: 'docs/tutorial-inquiry/qa-faq'
             },
+            {
+              label: 'サイトマップ',
+              to: 'sitemap'
+            },
+            {
+              label: '検索🔍',
+              to: 'search'
+            },
           ],
         },
         {
-          title: 'GIZMODO WOODS 関連リンク',
+          title: 'GIZMODO WOODS',
           items: [
             {
               label: 'Discord',
@@ -152,7 +165,7 @@ const config = {
           ],
         },
         {
-          title: 'ギズモード・ジャパン 関連リンク',
+          title: 'ギズモード・ジャパン',
           items: [
             {
               label: 'ホームページ',
