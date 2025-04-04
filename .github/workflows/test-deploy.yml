@@ -38,28 +38,19 @@ jobs:
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
 
-      - name: Get GitHub Pages URL
-        id: pages-url
-        run: |
-          echo "https://GIZMODO-WOODS.github.io/gizmodo-woods.github.io/${{ github.event.pull_request.head.sha }}" > pages-url.txt
-          cat pages-url.txt
-
-      - name: Post Preview Link
+      - name: Post how to merge
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const fs = require('fs');
             const { owner, repo, number } = context.issue;
             const prNumber = number;
-            const previewUrl = fs.readFileSync('pages-url.txt', 'utf8').trim();
-            
+
             const message = `### PRをマージするまでの手順
             1. チェックが通っていること\`All checks have passed\`、コンフリクトがないこと\`No conflicts with base branch\`を確認
-            2. 仮想環境で変更内容を確認
-            🔗 [プレビューはこちら](${previewUrl})
-            3. \`Merge pull request\`を押す
-            4. 適切な\`Commit message\`と\`Extended description\`を設定して、\`Confirm merge\`を押す`;
+            2. \`Merge pull request\`を押す
+            3. 適切な\`Commit message\`と\`Extended description\`を設定して、\`Confirm merge\`を押す
+            4. （開発環境で変更を確認していない場合は）３分以降を目安に[GIZMODO WOODS](https://gizmodo-woods.github.io/)を確認し、変更を確認`;
 
             const { data: comments } = await github.rest.issues.listComments({
               owner,
