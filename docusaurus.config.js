@@ -92,7 +92,7 @@ const config = {
       },
       items: [
         {
-          label: '概要',
+          label: 'GIZMODO WOODSとは',
           to: '/about-us',
           position: 'left'
         },
