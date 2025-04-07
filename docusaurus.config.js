@@ -33,11 +33,10 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
         },
-        // ブログは未利用のため非表示に
-        // blog: {
-        //   showReadingTime: true,
-        //   editUrl: 'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
-        // },
+        blog: {
+          showReadingTime: true,
+          editUrl: 'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
