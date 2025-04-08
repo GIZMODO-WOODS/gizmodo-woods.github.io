@@ -13,9 +13,14 @@ GIZMODO WOODSとは、[ギズモード・ジャパン](https://www.gizmodo.jp/)�
 普段は有志のモデレーターが管理・運営しています。   
 したがって、Discordサーバーに参加後に[ギズモード・ジャパン](https://www.gizmodo.jp/)のスタッフと交流できるとは限りません。
 
-2024年3月27日に交流会とXRゴーグルの体験会の対面イベントを開催し、[記事が掲載](https://www.gizmodo.jp/2024/03/gizmodo-woods-offline-event.html)されています。   
-2024年8月5日に交流会と[ギズモード・ジャパン](https://www.gizmodo.jp/)へのご意見を聞くイベントを開催し、[動画が公開](https://youtu.be/7EXyfdIWs48)されています。   
-（再生時の音量にはご注意ください。）
+## 主催イベント開催実績
+
+|名称|開催日|内容など|
+|:---:|:---:|:---:|
+|第１弾|2024/3/27|交流会とXRゴーグル体験会、[ギズモード・ジャパン](https://www.gizmodo.jp/)に[記事が掲載](https://www.gizmodo.jp/2024/03/gizmodo-woods-offline-event.html)|
+|第２弾 Day1|2024/8/5|交流会とギズモード相談室、[ギズモード・ジャパン](https://www.gizmodo.jp/)に[動画が公開](https://youtu.be/7EXyfdIWs48)（下記に掲載、再生時の音量に注意）|
+|第２弾 Day2|2024/8/26|交流会と[ギズモード・ジャパン](https://www.gizmodo.jp/)編集部取材「マイベストアイテム教えてください」|
+|第３弾|2025/3/31|高尾山登山と麓の温泉入浴|
 
 <iframe 
   src="https://www.youtube.com/embed/7EXyfdIWs48?autoplay=0&controls=1&iv_load_policy=3&modestbranding=1&rel=0&start=0"
