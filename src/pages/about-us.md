@@ -17,9 +17,9 @@ GIZMODO WOODSとは、[ギズモード・ジャパン](https://www.gizmodo.jp/)�
 
 |名称|開催日|内容など|
 |:---:|:---:|:---:|
-|第１弾|2024/3/27|交流会とXRゴーグル体験会、[ギズモード・ジャパン](https://www.gizmodo.jp/)に[記事が掲載](https://www.gizmodo.jp/2024/03/gizmodo-woods-offline-event.html)|
-|第２弾 Day1|2024/8/5|交流会とギズモード相談室、[ギズモード・ジャパン](https://www.gizmodo.jp/)に[動画が公開](https://youtu.be/7EXyfdIWs48)（下記に掲載、再生時の音量に注意）|
-|第２弾 Day2|2024/8/26|交流会と[ギズモード・ジャパン](https://www.gizmodo.jp/)編集部取材「マイベストアイテム教えてください」|
+|[第１弾](https://minglue.app/event/r2QC1jSwsixtPiSF8jHE)|2024/3/27|交流会とXRゴーグル体験会、[ギズモード・ジャパン](https://www.gizmodo.jp/)に[記事が掲載](https://www.gizmodo.jp/2024/03/gizmodo-woods-offline-event.html)|
+|[第２弾 Day1](https://minglue.app/event/3hTRCveB0VsZI2dSQACR)|2024/8/5|交流会とギズモード相談室、[ギズモード・ジャパン](https://www.gizmodo.jp/)に[動画が公開](https://youtu.be/7EXyfdIWs48)（下記に掲載、再生時の音量に注意）|
+|[第２弾 Day2](https://minglue.app/event/3hTRCveB0VsZI2dSQACR)|2024/8/26|交流会と[ギズモード・ジャパン](https://www.gizmodo.jp/)編集部取材「マイベストアイテム教えてください」|
 |[第３弾](https://minglue.app/event/0QEzfb66cdNbQNrF1H6B)|2025/3/31|高尾山登山と麓の温泉入浴|
 
 <iframe 
