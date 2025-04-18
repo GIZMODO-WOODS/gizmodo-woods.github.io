@@ -1,10 +1,3 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
@@ -29,22 +22,31 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-/* 画像の選択や右クリックを無効 */
-img {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
+body * {
   user-select: none;
-  -webkit-pointer-events: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -moz-user-select: none;
+  -webkit-touch-callout: none;
+  touch-action: manipulation;
+}
+
+img {
   pointer-events: none;
+  -webkit-user-drag: none;
+  -webkit-touch-callout: none;
 }
 
-/* <a> タグ内の画像はクリック可能に */
-a img {
-  pointer-events: auto;
+a, button {
+  pointer-events: auto !important;
+  user-select: auto !important;
+  -webkit-user-select: auto !important;
+  -ms-user-select: auto !important;
+  -moz-user-select: auto !important;
+  touch-action: auto !important;
 }
 
-/* qa-faq クラスのスタイル定義 */
+/* faq */
 .qa-faq {
   color: #ADD8E6;
   text-decoration: none;
@@ -54,4 +56,92 @@ a img {
   color: #3498db;
 }
 
+/* トップページのソーシャルアイコン */
+.navbar-Discord::before, .footer-Discord::before, .navbar-GitHub::before, .footer-GitHub::before,
+.GIZMODO::before, .X::before, .TikTok::before, .YouTube::before,
+.Threads::before, .Facebook::before, .Instagram::before, .Bluesky::before {
+  display: inline-flex;
+  content: '';
+  height: 32px;
+  width: 32px;
+  line-height: 32px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  position: relative;
+}
 
+.footer-Discord::before, .footer-GitHub::before, .GIZMODO::before, .X::before,
+.TikTok::before, .YouTube::before, .Threads::before, .Facebook::before,
+.Instagram::before, .Bluesky::before {
+  margin-bottom: 8px;
+}
+
+.navbar-Discord::before, .footer-Discord::before {
+  background-image: url('/img/Discord.webp');
+}
+
+.navbar-Discord::before {
+  top: 4px;
+}
+
+.footer-Discord::before {
+  top: 6px;
+}
+
+.footer-GitHub::before {
+  background-image: url('/img/GitHub.webp');
+}
+
+/* ライト/ダーク切り替え対応 */
+html[data-theme='dark'] .navbar-GitHub::before {
+  background-image: url('/img/GitHub.webp');
+}
+
+html[data-theme='light'] .navbar-GitHub::before {
+  background-image: url('/img/GitHub-dark.webp');
+}
+
+.footer-GitHub::before {
+  top: 3px;
+}
+
+.GIZMODO::before {
+  background-image: url('/img/GIZMODO.webp');
+  top: 3px;
+}
+
+.X::before {
+  background-image: url('/img/X.webp');
+  top: 4px;
+}
+
+.TikTok::before {
+  background-image: url('/img/TikTok.webp');
+  top: 3px;
+}
+
+.YouTube::before {
+  background-image: url('/img/YouTube.webp');
+  top: 6px;
+}
+
+.Threads::before {
+  background-image: url('/img/Threads.webp');
+  top: 2px;
+}
+
+.Facebook::before {
+  background-image: url('/img/Facebook.webp');
+  top: 1px;
+}
+
+.Instagram::before {
+  background-image: url('/img/Instagram.webp');
+  top: 2px;
+}
+
+.Bluesky::before {
+  background-image: url('/img/Bluesky.webp');
+  top: 5px;
+}
