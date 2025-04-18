@@ -6,17 +6,17 @@ const BASE_URL = 'https://gizmodo-woods.github.io';
 const pages = [
   '/', 
   '/about-us',
-  '/docs/channel-list',
-  '/docs/tutorial-inquiry/qa-faq',
-  '/docs/tutorial-inquiry/inquiry-support',
+  '/tutorial/join',
+  '/tutorial/inquiry/faq',
+  '/blog',
 ];
 
 const generateSitemap = () => {
-  const publicDir = path.join(__dirname, '../public');
+  const publicDir = path.join(__dirname, '../build');
 
   if (!fs.existsSync(publicDir)) {
     fs.mkdirSync(publicDir, { recursive: true });
-    console.log('📂 public directory created.');
+    console.log('📂 Create:build/');
   }
 
   let sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>\n`;
@@ -26,9 +26,9 @@ const generateSitemap = () => {
     let priority = 0.5;
     if (page === '/') priority = 1.0;
     if (page === '/about-us') priority = 0.9;
-    if (page === '/docs/channel-list') priority = 0.8;
-    if (page === '/docs/tutorial-inquiry/qa-faq') priority = 0.7;
-    if (page === '/docs/tutorial-inquiry/inquiry-support') priority = 0.6;
+    if (page === '/tutorial/join') priority = 0.8;
+    if (page === '/tutorial/inquiry/faq') priority = 0.7;
+    if (page === '/blog') priority = 0.6;
 
     sitemapContent += `  <url>\n`;
     sitemapContent += `    <loc>${BASE_URL}${page}</loc>\n`;
@@ -40,7 +40,7 @@ const generateSitemap = () => {
   sitemapContent += `</urlset>`;
 
   fs.writeFileSync(path.join(publicDir, 'sitemap.xml'), sitemapContent);
-  console.log('✅ Sitemap generated successfully!');
+  console.log('✅ Sitemap generated:build/sitemap.xml');
 };
 
 generateSitemap();
