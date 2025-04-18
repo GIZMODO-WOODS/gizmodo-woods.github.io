@@ -1,0 +1,20 @@
+moderator:
+  name: GIZMODO WOODSモデレーターチーム
+  title: GIZMODO WOODSのモデレーターチーム
+  image_url: '/img/GIZMODO-WOODS.webp'
+  page: true
+  socials:
+    Discord: https://discord.gg/gizmodo
+    GitHub: GIZMODO-WOODS
+    Website: https://gizmodo-woods.github.io/
+
+Hima:
+  name: Hima
+  title: モデレーター、対面イベント第１弾～第３弾統括
+  description: |
+    情報系を学ぶ大学４年生。卒業研究や就職活動に追われながら、サイトの改修に参加している。
+  image_url: https://github.com/Hima-Zinn.png
+  page: true
+  socials:
+    GitHub: Hima-Zinn
+    Website: https://sites.google.com/view/himazinn
