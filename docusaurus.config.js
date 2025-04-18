@@ -24,11 +24,6 @@ const config = {
     locales: ['ja'],
   },
 
-  future: {
-    v4: true,
-    experimental_faster: true,
-  },
-
   presets: [
     [
       'classic',
