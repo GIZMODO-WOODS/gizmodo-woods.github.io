@@ -24,6 +24,11 @@ const config = {
     locales: ['ja'],
   },
 
+  future: {
+    v4: true,
+    experimental_faster: true,
+  },
+
   presets: [
     [
       'classic',
@@ -42,14 +47,14 @@ const config = {
           onUntruncatedBlogPosts: 'warn',
           blogSidebarCount: 'ALL',
           postsPerPage: 10,
-          blogTitle: 'GIZMODO WOODS Blog',
+          blogTitle: 'ブログ',
           blogSidebarTitle: '最近の投稿',
           readingTime: ({content, frontMatter, defaultReadingTime}) =>
             defaultReadingTime({content, options: {wordsPerMinute: 350}}),
           feedOptions: {
             type: 'all',
-            title: 'GIZMODO WOODS Blog',
-            description: 'GIZMODO WOODSモデレーターチームのBlog',
+            title: 'GIZMODO WOODS ブログ',
+            description: 'GIZMODO WOODSモデレーターチームのブログ',
             language: 'ja',
             copyright: `Copyright © 2023-${new Date().getFullYear()} GIZMODO WOODS.`,
           },
