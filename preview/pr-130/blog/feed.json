@@ -1,0 +1,22 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GIZMODO WOODS ブログ",
+    "home_page_url": "https://gizmodo-woods.github.io/blog",
+    "description": "GIZMODO WOODSモデレーターチームのブログ",
+    "items": [
+        {
+            "id": "https://gizmodo-woods.github.io/blog/standby",
+            "content_html": "<p>現在ブログ機能は準備中です。</p>\n<p>今しばらくお待ちください。</p>",
+            "url": "https://gizmodo-woods.github.io/blog/standby",
+            "title": "準備中",
+            "summary": "現在ブログ機能は準備中です。",
+            "date_modified": "2025-05-05T00:00:00.000Z",
+            "author": {
+                "name": "Hima"
+            },
+            "tags": [
+                "準備中"
+            ]
+        }
+    ]
+}
