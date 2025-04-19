@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# お問い合わせ方法
+# お問い合わせ
 
 本サイトについて、またはDiscordサーバー「GIZMODO WOODS」についてわからない点がある場合は、お気軽にお問合せください。
 
-## お問い合わせチケット作成（お問い合わせ）方法
+## チケット作成
 
 0. お問い合わせ内容がGIZMODO WOODSもしくは本サイトであるかどうか確認する
 
@@ -14,7 +14,7 @@ sidebar_position: 2
 
 |内容|窓口|
 |:---:|:---:|
-|GIZMODO WOODS/本サイト|[よくあるご質問](faq.md)を一読のうえ、下記手順からお問い合わせください|
+|GIZMODO WOODS/本サイト|[よくあるご質問](faq)を一読のうえ、下記手順からお問い合わせください|
 |ギズモード・ジャパンの記事/Discord以外のSNS/イベントなど|[株式会社メディアジーンのお問い合わせ窓口](https://www.mediagene.co.jp/contact)|
 |GIZMODO WOODS以外のDiscordサーバー/コミュニティ|各Discordサーバー/コミュニティの窓口|
 |Discordの不具合・トラブルなど|Discordの[ヘルプセンター](https://support.discord.com/hc/ja)や[サポートのリクエスト](https://support.discord.com/hc/ja/requests/new)|
@@ -24,12 +24,12 @@ sidebar_position: 2
 2. 「お問い合わせはこちら」をクリック/タップ
 
 <img src={require("./img/open-inquiry.webp").default}
-     style={{height: 'auto', width:'500px', display:'block', margin:'auto', marginBottom:'10px'}} />
+     style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 3. お問い合わせ内容を記入し、「送信」をクリック/タップ
 
 <img src={require("./img/ticket-bot-form.webp").default}
-     style={{height: 'auto', width:'500px', display:'block', margin:'auto', marginBottom:'10px'}} />
+     style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 あなた（質問者）と運営（モデレーターと管理者）のみが見れるテキストチャットが作成されます。   
 状況により、返信が遅れる場合がありますが、運営側から返信がくるまでしばらくお待ちください。

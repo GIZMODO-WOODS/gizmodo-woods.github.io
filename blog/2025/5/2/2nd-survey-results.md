@@ -1,6 +1,6 @@
 ---
+date: 2025-05-02
 authors:
-  - moderator
   - Hima
 title: 第２回参加者アンケート結果発表
 descriptions: 参加者アンケート結果発表を行います。
@@ -8,6 +8,7 @@ slug: 2nd-survey-results
 tags:
   - 参加者アンケート
 hide_table_of_contents: false
+draft: true
 ---
 
 先日は第２回参加者アンケートへのご回答ありがとうございました。  
@@ -55,7 +56,7 @@ PC、スマートフォン、タブレットの順に多い結果となりまし
 
 雑談系、ゲーム、小規模サーバーの順に多く回答されました。
 
-## GIZMODO WOODS の満足度
+## GIZMODO WOODSの満足度
 
 ### 参加しやすさ
 
@@ -65,7 +66,7 @@ PC、スマートフォン、タブレットの順に多い結果となりまし
 
 高い水準となり、話しやすい環境であることがわかります。
 
-### カテゴリー・チャンネルの両
+### カテゴリー・チャンネルの量
 
 テーマを持ったチャンネルやカテゴライズが良い影響を与えていそうです。
 
@@ -115,15 +116,38 @@ GIZMODO WOODS では 2024 年 3 月から対面イベントを定期的に開催
 
 現状維持を希望されている方が多かったため、継続して運用していこうと思います。
 
-## 自由記述への回答
+## 自由記述
 
-|                    記述                    |                                                                            回答                                                                             |
-| :----------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         おみくじ`/omikuji`が楽しい         |                                                      ありがとうございます！引き続きお楽しみください。                                                       |
-|           VC が多すぎるのでは？            |                                                         利用状況を感が見ながら改善を行う予定です。                                                          |
-| オンラインで交流できる時間を作ってほしい。 | イベントの同時視聴、GIZ Hacker など様々な施策を行っております。ご自身がお好きなゲームや話題などでボイスチャンネルへの参加を募集してみてはいかがでしょうか。 |
-|       オフ会は早めに告知してほしい。       |                                                              近々お知らせできるかと思います。                                                               |
-|    Bot の AI の呼び出し方がわからない。    |                                       モデレーターチームや製作者と連携し、ドキュメント作成の検討を行ってまいります。                                        |
+<table style={{ width: "100%", borderCollapse: "collapse", textAlign: "center" }}>
+  <thead>
+    <tr>
+      <th style={{ verticalAlign: "middle" }}>記述</th>
+      <th style={{ verticalAlign: "middle" }}>回答</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style={{ verticalAlign: "middle" }}>おみくじ<code>/omikuji</code>が楽しい。</td>
+      <td style={{ verticalAlign: "middle" }}>ありがとうございます！引き続きお楽しみください。</td>
+    </tr>
+    <tr>
+      <td style={{ verticalAlign: "middle" }}>VCが多すぎるのでは？</td>
+      <td style={{ verticalAlign: "middle" }}>利用状況を見ながら改善予定です。</td>
+    </tr>
+    <tr>
+      <td style={{ verticalAlign: "middle" }}>オンラインで交流できる時間を作ってほしい。</td>
+      <td style={{ verticalAlign: "middle" }}>イベントの同時視聴、GIZ Hacker など様々な施策を行っております。<br />ゲームや話題などでボイスチャンネルへの参加を募集してみてはいかがでしょうか。</td>
+    </tr>
+    <tr>
+      <td style={{ verticalAlign: "middle" }}>オフ会は早めに告知してほしい。</td>
+      <td style={{ verticalAlign: "middle" }}>近々お知らせ予定です。</td>
+    </tr>
+    <tr>
+      <td style={{ verticalAlign: "middle" }}>Botの使い方がわからない。</td>
+      <td style={{ verticalAlign: "middle" }}>近々ドキュメント作成する予定です。</td>
+    </tr>
+  </tbody>
+</table>
 
 今回の投稿は以上となります。  
 ここまでご覧いただきありがとうございました！

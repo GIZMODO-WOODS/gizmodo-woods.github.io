@@ -17,7 +17,7 @@
 
 ### 貢献ガイド
 
-[こちら](.github/CONTRIBUTING.md)を参照してください。
+[こちら](.github/CONTRIBUTING)を参照してください。
 
 ## English
 
@@ -30,7 +30,7 @@
 
 ### Contributing Guide
 
-Please refer to [the page](.github/CONTRIBUTING.md).
+Please refer to [the page](.github/CONTRIBUTING).
 
 ## Docusaurus
 

@@ -31,7 +31,7 @@ sidebar_position: 2
 
 :::tip イベントの設定にお困りの場合
 
-イベントの企画を添えて[雑談](/tutorial/channel-list.md#雑談--web--app-)もしくは[お問い合わせ](/tutorial/inquiry/contact.md)でお知らせください。
+イベントの企画を添えて[雑談](/tutorial/channel-list#雑談--web--app-)もしくは[お問い合わせ](/tutorial/inquiry/contact)でお知らせください。
 
 :::
 
@@ -46,7 +46,7 @@ sidebar_position: 2
 3. 開催場所を「他の場所」に設定し、WebサイトのURLや任意の文字列を設定し、「次へ」をクリック/タップ
 
 <img src={require("./img/setting-place.webp").default}
-     style={{height: 'auto', width:'400px', display:'block', margin:'auto', marginBottom:'10px'}} />
+     style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 4. イベント情報を設定し、「次へ」をクリック/タップ
 
@@ -61,17 +61,17 @@ sidebar_position: 2
 |カバー画像（PC・Web版）|イベントを象徴する画像|
 
 <img src={require("./img/theme-of-event.webp").default}
-     style={{height: 'auto', width:'400px', display:'block', margin:'auto', marginBottom:'10px'}} />
+     style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 5. イベント内容を確認し、「イベントを作成」をクリック/タップ
 
 <img src={require("./img/confirmation-event.webp").default}
-     style={{height: 'auto', width:'400px', display:'block', margin:'auto', marginBottom:'10px'}} />
+     style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 以上でイベントの新規作成は完了です。   
 モデレーターが設定されたイベントの確認と適宜再設定を行います。
 
-よろしければ、適切な[テキストチャンネル](tutorial/channel-list.md)にイベントを作成した旨を投稿していただけると反応しやすくなります。
+よろしければ、適切な[テキストチャンネル](tutorial/channel-list)にイベントを作成した旨を投稿していただけると反応しやすくなります。
 
 :::note 画像のイベントは...
 

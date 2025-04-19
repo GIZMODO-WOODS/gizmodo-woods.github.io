@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # VC内のテキストチャンネル
@@ -14,23 +14,15 @@ sidebar_position: 1
 ボイスチャンネルにカーソルを合わせると表示される吹き出しマークか、ボイスチャンネル参加後に右上に表示される吹き出しマークをクリックします。
 
 <img src={require("./img/way-to-see-vc-chat-pc.webp").default}
-     style={{height: 'auto', width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
+     style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 ### スマートフォン
 
 ボイスチャンネルをタップし（これだけでは参加はされません）、右上の吹き出しマークをタップします。
 
 <img src={require("./img/way-to-see-vc-chat-sp.webp").default}
-     style={{height: 'auto', width:'800px', display:'block', margin:'auto', marginBottom:'10px'}} />
+     style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 ## 読み上げBotの使い方
 
-- `/set`　`/join`
-
-    参加させる際はこちらのコマンドを実行してください。
-
-- `/stop`　`/disconnect`
-
-    使い終わった後は、このコマンドで退出させてください。
-
-その他の設定は、ボイスチャンネル内のテキストチャンネルで図形マークを選択し、「このサーバーのアプリ」の「もっと表示」を開き、「Chat Reader」や「VOICEVOX読み上げガイド」から確認してください。
+詳しくは[VCテキスト読み上げ](/tutorial/bot/text-to-speech)から確認してください。

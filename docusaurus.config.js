@@ -3,15 +3,16 @@
 
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
+const prNumber = process.env.PR_NUMBER;
+const isPreview = !!prNumber;
 
-/** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'GIZMODO WOODS',
   tagline: 'ギズモード・ジャパンのファンが集うDiscordサーバー',
   favicon: 'img/favicon.ico',
 
   url: 'https://gizmodo-woods.github.io',
-  baseUrl: '/',
+  baseUrl: isPreview ? `/preview/pr-${prNumber}/` : '/',
 
   organizationName: 'GIZMODO-WOODS',
   projectName: 'gizmodo-woods.github.io',
@@ -115,10 +116,14 @@ const config = {
           position: 'left'
         },
         {
-          label: '参加方法',
+          label: 'チュートリアル',
           to: '/tutorial/join',
           position: 'left',
           items: [
+            {
+              label: '参加方法',
+              to: '/tutorial/join',
+            },
             {
               label: 'チャンネル一覧',
               to: '/tutorial/channel-list',
@@ -148,6 +153,10 @@ const config = {
               to: 'tutorial/category/ロール',
             },
             {
+              label: 'Bot',
+              to: 'tutorial/category/Bot',
+            },
+            {
               label: 'DM設定',
               to: 'tutorial/category/DM設定',
             },
@@ -158,16 +167,20 @@ const config = {
           ],
         },
         {
-          label: 'FAQ',
+          label: 'お問い合わせ',
           to: '/tutorial/inquiry/faq',
           position: 'left',
           items: [
             {
-              label: '投稿の通報方法',
+              label: 'FAQ',
+              to: '/tutorial/inquiry/faq',
+            },
+            {
+              label: '投稿の通報',
               to: '/tutorial/inquiry/report-message',
             },
             {
-              label: 'お問い合わせ方法',
+              label: 'お問い合わせ',
               to: '/tutorial/inquiry/contact',
             },
           ],
@@ -207,7 +220,7 @@ const config = {
               to: '/about-us',
             },
             {
-              label: '参加方法',
+              label: 'チュートリアル',
               to: '/tutorial/join',
             },
             {

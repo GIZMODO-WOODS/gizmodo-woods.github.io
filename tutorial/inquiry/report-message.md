@@ -2,10 +2,10 @@
 sidebar_position: 3
 ---
 
-# 投稿の通報方法
+# 投稿の通報
 
-不審な投稿（メッセージ）を見つけた際、[お問い合わせ](./contact.md)をしなくても投稿（メッセージ）を通報することができます。   
-その他のお問い合わせは[よくあるご質問](./faq.md)をご確認の上、[お問い合わせ](./contact.md)ください。
+不審な投稿（メッセージ）を見つけた際、[お問い合わせ](./contact)をしなくても投稿（メッセージ）を通報することができます。   
+その他のお問い合わせは[よくあるご質問](./faq)をご確認の上、[お問い合わせ](./contact)ください。
 
 :::tip この機能について
 
@@ -29,7 +29,7 @@ sidebar_position: 3
 ※通報しない場合は、「これらのメッセージを削除する」をクリック/タップしてください。
 
 <img src={require("./img/report-bot-form.webp").default}
-     style={{height: 'auto', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
+     style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 3. プルダウンをクリック/タップし、適切な理由を選択   
    選択後、自動的に通報されます。

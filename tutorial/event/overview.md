@@ -7,13 +7,13 @@ sidebar_position: 1
 GIZMODO WOODS の参加者やモデレーターがイベントを設定することがあります。
 
 <img src={require("./img/event.webp").default}
-style={{height: 'auto', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
+style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 興味のあるイベントを開くと詳細が確認でき、「興味あり（Interested）」を押すと、そのイベントの開始時間に通知を送ります。
 
 ## スレッドをフォロー
 
-基本的にはイベントフォーラムのスレッドが開催場所として指定されているので、該当[スレッドをフォロー](/tutorial/forum/follow.md)してください。  
+基本的にはイベントフォーラムのスレッドが開催場所として指定されているので、該当[スレッドをフォロー](/tutorial/forum/follow)してください。  
 こちらでは、イベント数日前よりイベント関連のチャットが盛り上がります。
 
 :::note 例外
@@ -28,7 +28,7 @@ style={{height: 'auto', width:'auto', display:'block', margin:'auto', marginBott
 
 ボイスチャンネルでは読み上げ bot も利用可能です。  
 聞き専の方もぜひご参加ください！  
-[ボイスチャンネル内のチャットを開く方法](/tutorial/vc/text-ch.md)
+[ボイスチャンネル内のチャットを開く方法](/tutorial/vc/text-ch)
 
 ## イベントを共有する
 

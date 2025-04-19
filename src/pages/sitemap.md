@@ -27,129 +27,114 @@
     <td></td>
   </tr>
   <tr>
-    <td>参加方法/使い方</td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/join" rel="noopener">参加方法</a></td>
+    <td>チュートリアル</td>
+    <td><a href="tutorial/join" rel="noopener">参加方法</a></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/channel-list" rel="noopener">チャンネル一覧</a></td>
+    <td><a href="tutorial/channel-list" rel="noopener">チャンネル一覧</a></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/category/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0" rel="noopener">フォーラム</a></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/forum/follow" rel="noopener">スレッドへの参加/退出</a></td>
+    <td><a href="tutorial/category/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0" rel="noopener">フォーラム</a></td>
+    <td><a href="tutorial/forum/follow" rel="noopener">スレッドへの参加/退出</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/forum/open" rel="noopener">スレッドを開く/閉じる</a></td>
+    <td><a href="tutorial/forum/open" rel="noopener">スレッドを開く/閉じる</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/category/%E3%83%9C%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB" rel="noopener">ボイスチャンネル</a></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/vc/text-ch-in-vc" rel="noopener">VC内のテキストチャンネル</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/category/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88" rel="noopener">イベント</a></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/event/overview" rel="noopener">イベントとは</a></td>
+    <td><a href="tutorial/category/%E3%83%9C%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB" rel="noopener">ボイスチャンネル</a></td>
+    <td><a href="tutorial/vc/preparation" rel="noopener">VCに参加するための準備</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/event/create" rel="noopener">イベントの作り方</a></td>
+    <td><a href="tutorial/vc/text-ch" rel="noopener">VC内のテキストチャンネル</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/category/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E8%A1%A8%E7%A4%BA" rel="noopener">チャンネル表示</a></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/channel-display/settings" rel="noopener">チャンネル表示とは</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/category/%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E8%A3%85%E9%A3%BE" rel="noopener">テキスト装飾</a></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/decoration/hide-preview" rel="noopener">URLのプレビューを隠す</a></td>
+    <td><a href="tutorial/category/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88" rel="noopener">イベント</a></td>
+    <td><a href="tutorial/event/overview" rel="noopener">イベントとは</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/decoration/text-size" rel="noopener">文字の大きさを変える</a></td>
+    <td><a href="tutorial/event/create" rel="noopener">イベントの作り方</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="tutorial/category/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E8%A1%A8%E7%A4%BA" rel="noopener">チャンネル表示</a></td>
+    <td><a href="tutorial/channel-display/settings" rel="noopener">チャンネル表示とは</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="tutorial/category/装飾" rel="noopener">装飾</a></td>
+    <td><a href="tutorial/decoration/text" rel="noopener">テキスト系</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/decoration/embedded-url" rel="noopener">リンクを埋め込む</a></td>
+    <td><a href="tutorial/decoration/link" rel="noopener">リンク系</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/decoration/bold" rel="noopener">文字を太字にする</a></td>
+    <td><a href="tutorial/decoration/file" rel="noopener">ファイル系</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="tutorial/category/%E3%83%AD%E3%83%BC%E3%83%AB" rel="noopener">ロール</a></td>
+    <td><a href="tutorial/role/overview" rel="noopener">ロールについて</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/decoration/italic" rel="noopener">文字を斜体にする</a></td>
+    <td><a href="tutorial/role/settings" rel="noopener">ロールの設定</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="tutorial/category/Bot" rel="noopener">Bot</a></td>
+    <td><a href="tutorial/bot/text-to-speech" rel="noopener">VCテキスト読み上げ</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/decoration/underline" rel="noopener">文字に下線を引く</a></td>
+    <td><a href="tutorial/bot/music" rel="noopener">音楽</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/decoration/itemized" rel="noopener">箇条書き</a></td>
+    <td><a href="tutorial/bot/type-c" rel="noopener">Type-C</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/decoration/spoiler" rel="noopener">ネタバレ防止</a></td>
+    <td><a href="tutorial/bot/iphone3g" rel="noopener">iPhone3G</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="tutorial/category/dm%E8%A8%AD%E5%AE%9A" rel="noopener">DM設定</a></td>
+    <td><a href="tutorial/dm/privacy" rel="noopener">不審なDMを減らすには</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="tutorial/category/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B" rel="noopener">お問い合わせ</a></td>
+    <td><a href="tutorial/inquiry/faq" rel="noopener">よくあるご質問</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/decoration/codeblock" rel="noopener">コードブロック</a></td>
+    <td><a href="tutorial/inquiry/contact" rel="noopener">お問い合わせ</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/decoration/quote" rel="noopener">引用</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/decoration/strikethrough" rel="noopener">打ち消し線</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/category/%E3%83%AD%E3%83%BC%E3%83%AB" rel="noopener">ロール</a></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/role/overview" rel="noopener">ロールについて</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/role/settings" rel="noopener">ロールの設定</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/category/dm%E8%A8%AD%E5%AE%9A" rel="noopener">DM設定</a></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/dm/privacy" rel="noopener">不審なDMを減らすには</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/category/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B" rel="noopener">お問い合わせ</a></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/inquiry/faq" rel="noopener">よくあるご質問</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/inquiry/contact" rel="noopener">お問い合わせ方法</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td><a href="https://gizmodo-woods.github.io/tutorial/inquiry/report-message" rel="noopener">投稿の通報方法</a></td>
+    <td><a href="tutorial/inquiry/report-message" rel="noopener">投稿の通報</a></td>
   </tr>
   <tr>
     <td>ギズモード・ジャパン</td>

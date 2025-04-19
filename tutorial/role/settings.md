@@ -12,7 +12,7 @@ sidebar_position: 2
 1. GIZMODO WOODSを開き、「チャンネル＆ロール」を開く
 
 <img src={require("./img/push-ch-roles.webp").default}
-     style={{height: '300px', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
+     style={{height:'400px', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 2. 「カスタマイズ」を選択
 
@@ -30,4 +30,4 @@ sidebar_position: 2
 スマホ版では、縦にスクロールすると別の質問を見られます。
 
 <img src={require("./img/customize.webp").default}
-     style={{height: '300px', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
+     style={{height:'400px', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />

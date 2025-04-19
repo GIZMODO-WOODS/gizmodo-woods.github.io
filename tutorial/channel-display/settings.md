@@ -8,7 +8,7 @@ sidebar_position: 1
 
 :::tip フォーラムのスレッドについて
 
-本機能は、フォーラムの[スレッドをフォロー](/tutorial/forum/follow.md)とは別の機能なので注意してください。
+本機能は、フォーラムの[スレッドをフォロー](/tutorial/forum/follow)とは別の機能なので注意してください。
 
 :::
 
@@ -27,7 +27,7 @@ sidebar_position: 1
    スマホ版：下にスクロールし、「全てのチャンネルを表示」を有効化
 
 <img src={require("./img/show-all-channels.webp").default}
-style={{height: 'auto', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
+style={{height:'300px', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 :::info 表示をやめたい場合
 

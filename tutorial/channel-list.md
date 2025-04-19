@@ -175,4 +175,4 @@ sidebar_position: 2
 
     - ### 質問・要望等はこちら！ [ [Web](https://discord.com/channels/753903663298117694/1114363410310774814) / [App](discord://discord.com/channels/753903663298117694/1114363410310774814) ]
 
-        [よくあるご質問](/tutorial/inquiry/faq.md)を参照のうえ、[お問い合わせ](/tutorial/inquiry/contact.md)ください。
+        [よくあるご質問](/tutorial/inquiry/faq)を参照のうえ、[お問い合わせ](/tutorial/inquiry/contact)ください。
