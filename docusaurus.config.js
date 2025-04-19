@@ -3,8 +3,6 @@
 
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
-const prNumber = process.env.PR_NUMBER;
-const isPreview = !!prNumber;
 
 const config = {
   title: 'GIZMODO WOODS',
@@ -12,7 +10,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://gizmodo-woods.github.io',
-  baseUrl: isPreview ? `/preview/pr-${prNumber}/` : '/',
+  baseUrl: '/',
 
   organizationName: 'GIZMODO-WOODS',
   projectName: 'gizmodo-woods.github.io',
