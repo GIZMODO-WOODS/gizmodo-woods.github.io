@@ -21,7 +21,7 @@ GitHubのアカウントをお持ちの場合は、ログインのうえ、以�
 - 該当するファイルを編集し、プルリクエストを送信
 - [Issues](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/issues)を開き、「New Issue」から問題提起
 
-GitHubのアカウントをお持ちでない場合は、Discordサーバーに参加し[お問い合わせ](https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support)ください。
+GitHubのアカウントをお持ちでない場合は、Discordサーバーに参加し[お問い合わせ](https://gizmodo-woods.github.io/tutorial/inquiry/contact)ください。
 
 
 ## このリポジトリの内容を更新する方法
@@ -80,7 +80,7 @@ sidebar_position: 1
 
 ## ドキュメント
 
-[Docusaurusのガイドページ](https://docusaurus.io/docs/markdown-features)などを参照してください。
+[Docusaurusのガイドページ](https://docusaurus.io/docs)などを参照してください。
 
 ## ライセンス
 
@@ -106,7 +106,7 @@ The information you receive may not be accepted after scrutiny here.
 - Edit the relevant file and submit a pull request.
 - Open an [Issue](https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/issues) and create a "New Issue."
 
-If you do not have a GitHub account, please join our Discord server and [contact us](https://gizmodo-woods.github.io/docs/tutorial-inquiry/inquiry-support).
+If you do not have a GitHub account, please join our Discord server and [contact us](https://gizmodo-woods.github.io/tutorial/inquiry/contact).
 
 ## How to Update This Repository
 
@@ -167,7 +167,7 @@ This number determines the order of pages in the sidebar.
 
 ## Documentation
 
-Refer to the [Docusaurus guide](https://docusaurus.io/docs/markdown-features) for more details.
+Refer to the [Docusaurus guide](https://docusaurus.io/docs) for more details.
 
 ## License
 

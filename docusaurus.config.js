@@ -3,21 +3,22 @@
 
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
+const prNumber = process.env.PR_NUMBER;
+const isPreview = !!prNumber;
 
-/** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'GIZMODO WOODS',
   tagline: 'ギズモード・ジャパンのファンが集うDiscordサーバー',
   favicon: 'img/favicon.ico',
 
   url: 'https://gizmodo-woods.github.io',
-  baseUrl: '/',
+  baseUrl: isPreview ? `/preview/pr-${prNumber}/` : '/',
 
   organizationName: 'GIZMODO-WOODS',
   projectName: 'gizmodo-woods.github.io',
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: 'warn',
 
   i18n: {
     defaultLocale: 'ja',
@@ -30,12 +31,29 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'tutorial',
+          routeBasePath: 'tutorial',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
+          blogSidebarCount: 'ALL',
+          postsPerPage: 10,
+          blogTitle: 'ブログ',
+          blogSidebarTitle: '最近の投稿',
+          readingTime: ({content, frontMatter, defaultReadingTime}) =>
+            defaultReadingTime({content, options: {wordsPerMinute: 350}}),
+          feedOptions: {
+            type: 'all',
+            title: 'GIZMODO WOODS ブログ',
+            description: 'GIZMODO WOODSモデレーターチームのブログ',
+            language: 'ja',
+            copyright: `Copyright © 2023-${new Date().getFullYear()} GIZMODO WOODS.`,
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -48,6 +66,7 @@ const config = {
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
+        docsDir: "tutorial",
         hashed: true,
         language: ["ja", "en"],
         highlightSearchTermsOnTargetPage: true,
@@ -74,9 +93,9 @@ const config = {
         "https://www.threads.net/@gizmodo_japan",
         "https://www.facebook.com/gizmodojp",
         "https://www.instagram.com/gizmodo_japan",
-        "https://bsky.app/profile/gizmodojapan.bsky.social"
+        "https://bsky.app/profile/gizmodojapan.bsky.social",
       ],
-      "foundingDate": "2020-09-11"
+      "foundingDate": "2020-09-11",
     }),
   },
 
@@ -86,9 +105,9 @@ const config = {
       title: 'GIZMODO WOODS',
       logo: {
         alt: 'GIZMODO WOODS Logo',
-        src: 'img/gizmodo-woods.webp',
+        src: 'img/GIZMODO-WOODS.webp',
         height: '32px',
-        width: 'auto',
+        width: '32px',
       },
       items: [
         {
@@ -97,14 +116,78 @@ const config = {
           position: 'left'
         },
         {
-          label: '参加方法/使い方',
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          label: 'チュートリアル',
+          to: '/tutorial/join',
           position: 'left',
+          items: [
+            {
+              label: '参加方法',
+              to: '/tutorial/join',
+            },
+            {
+              label: 'チャンネル一覧',
+              to: '/tutorial/channel-list',
+            },
+            {
+              label: 'フォーラム',
+              to: 'tutorial/category/フォーラム',
+            },
+            {
+              label: 'ボイスチャンネル',
+              to: 'tutorial/category/ボイスチャンネル',
+            },
+            {
+              label: 'イベント',
+              to: 'tutorial/category/イベント',
+            },
+            {
+              label: 'チャンネル表示',
+              to: 'tutorial/category/チャンネル表示',
+            },
+            {
+              label: '装飾',
+              to: 'tutorial/category/装飾',
+            },
+            {
+              label: 'ロール',
+              to: 'tutorial/category/ロール',
+            },
+            {
+              label: 'Bot',
+              to: 'tutorial/category/Bot',
+            },
+            {
+              label: 'DM設定',
+              to: 'tutorial/category/DM設定',
+            },
+            {
+              label: 'お問い合わせ',
+              to: 'tutorial/category/お問い合わせ',
+            },
+          ],
         },
         {
-          label: 'FAQ',
-          to: 'docs/tutorial-inquiry/qa-faq',
+          label: 'お問い合わせ',
+          to: '/tutorial/inquiry/faq',
+          position: 'left',
+          items: [
+            {
+              label: 'FAQ',
+              to: '/tutorial/inquiry/faq',
+            },
+            {
+              label: '投稿の通報',
+              to: '/tutorial/inquiry/report-message',
+            },
+            {
+              label: 'お問い合わせ',
+              to: '/tutorial/inquiry/contact',
+            },
+          ],
+        },
+        {
+          label: 'ブログ',
+          to: 'blog',
           position: 'left',
         },
         {
@@ -113,8 +196,15 @@ const config = {
           position: 'left',
         },
         {
+          'aria-label': 'Discord',
           href: 'https://discord.gg/gizmodo',
-          label: 'Discord',
+          className: 'navbar-Discord',
+          position: 'right',
+        },
+        {
+          'aria-label': 'GitHub',
+          href: 'https://github.com/GIZMODO-WOODS',
+          className: 'navbar-GitHub',
           position: 'right',
         },
       ],
@@ -127,23 +217,28 @@ const config = {
           items: [
             {
               label: 'GIZMODO WOODSとは',
-              to: '/about-us'
+              to: '/about-us',
             },
             {
-              label: '参加方法/使い方',
-              to: '/docs/intro'
+              label: 'チュートリアル',
+              to: '/tutorial/join',
             },
             {
               label: 'FAQ',
-              to: 'docs/tutorial-inquiry/qa-faq'
+              to: 'tutorial/inquiry/faq',
+            },
+            {
+              label: 'ブログ',
+              to: 'blog',
+              position: 'left',
             },
             {
               label: 'サイトマップ',
-              to: 'sitemap'
+              to: 'sitemap',
             },
             {
               label: '検索🔍',
-              to: 'search'
+              to: 'search',
             },
           ],
         },
@@ -151,16 +246,26 @@ const config = {
           title: 'GIZMODO WOODS',
           items: [
             {
-              label: 'Discord',
-              href: 'https://discord.gg/gizmodo'
+              label: ' ',
+              href: 'https://discord.gg/gizmodo',
+              className: 'footer-Discord',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/GIZMODO-WOODS'
+              label: ' ',
+              href: 'https://github.com/GIZMODO-WOODS',
+              className: 'footer-GitHub',
             },
             {
               label: '利用規約',
-              href: 'https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d#file-gizmodo_woods_-terms_of_service-md'
+              href: 'https://gist.github.com/gizmodojapan/a480d658216ab4194e26d49e7de1139d#file-gizmodo_woods_-terms_of_service-md',
+            },
+            {
+              label: 'イベントチェックイン',
+              href: 'https://minglue.app/',
+            },
+            {
+              label: 'サービスステータス',
+              href: 'https://status.frwi.net/status/gw',
             },
           ],
         },
@@ -168,41 +273,49 @@ const config = {
           title: 'ギズモード・ジャパン',
           items: [
             {
-              label: 'ホームページ',
-              href: 'https://www.gizmodo.jp'
+              label: ' ',
+              href: 'https://www.gizmodo.jp',
+              className: 'GIZMODO',
             },
             {
-              label: 'X（旧Twitter）',
-              href: 'https://twitter.com/gizmodojapan'
+              label: ' ',
+              href: 'https://twitter.com/gizmodojapan',
+              className: 'X',
             },
             {
-              label: 'TikTok',
-              href: 'https://www.tiktok.com/@gizmodojapan'
+              label: ' ',
+              href: 'https://www.tiktok.com/@gizmodojapan',
+              className: 'TikTok',
             },
             {
-              label: 'YouTube',
-              href: 'https://www.youtube.com/user/gizmodojapan'
+              label: ' ',
+              href: 'https://www.youtube.com/user/gizmodojapan',
+              className: 'YouTube',
             },
             {
-              label: 'Threads',
-              href: 'https://www.threads.net/@gizmodo_japan'
+              label: ' ',
+              href: 'https://www.threads.net/@gizmodo_japan',
+              className: 'Threads',
             },
             {
-              label: 'Facebook',
-              href: 'https://www.facebook.com/gizmodojp'
+              label: ' ',
+              href: 'https://www.facebook.com/gizmodojp',
+              className: 'Facebook',
             },
             {
-              label: 'Instagram',
-              href: 'https://www.instagram.com/gizmodo_japan'
+              label: ' ',
+              href: 'https://www.instagram.com/gizmodo_japan',
+              className: 'Instagram',
             },
             {
-              label: 'Bluesky',
-              href: 'https://bsky.app/profile/gizmodojapan.bsky.social'
+              label: ' ',
+              href: 'https://bsky.app/profile/gizmodojapan.bsky.social',
+              className: 'Bluesky',
             },
           ],
         },
       ],
-      copyright: `Copyright © 2023-${new Date().getFullYear()} GIZMODO WOODS. For more details, visit <a href="/about-us" rel="noopener">about us</a>.`,
+      copyright: `Copyright © 2023-${new Date().getFullYear()} GIZMODO WOODS.<br>For more details, visit <a href="/about-us" rel="noopener">about us</a>.`,
     },
     prism: {
       theme: lightCodeTheme,

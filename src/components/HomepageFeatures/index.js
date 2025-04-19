@@ -9,7 +9,7 @@ const FeatureList = [
     alt: 'User is using a PC for voice chat.',
     description: (
       <>
-        Apple Keynoteなどのイベントを、ボイスチャンネルを使ってみんなで楽しもう！
+        イベントをみんなで楽しもう！
       </>
     ),
   },
@@ -19,7 +19,7 @@ const FeatureList = [
     alt: 'User is using a PC for text chat.',
     description: (
       <>
-        ガジェット・テックの話題に限らず、気になるニュースや美味しかった料理などをみんなでシェアしよう！
+        気になるニュースや美味しかった料理などを<br/>みんなでシェアしよう！
       </>
     ),
   },
@@ -29,7 +29,7 @@ const FeatureList = [
     alt: 'User is taking notes while thinking.',
     description: (
       <>
-        ジャンルを問わず、フォーラム機能で気になることを質問してみよう！<br/>
+        ジャンルを問わず、気になることを質問してみよう！<br/>
         ねぇねぇ、おすすめの映画教えて！！
       </>
     ),

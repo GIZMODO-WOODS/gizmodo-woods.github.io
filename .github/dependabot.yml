@@ -1,26 +1,26 @@
 version: 2
 updates:
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: 'npm'
+    directory: '/'
     schedule:
-      interval: "daily"
-    open-pull-requests-limit: 10
+      interval: 'monthly'
+    versioning-strategy: 'increase'
     groups:
       react-packages:
         patterns:
-          - "react"
-          - "react-dom"
+          - 'react'
+          - 'react-dom'
       docusaurus-packages:
         patterns:
-          - "@docusaurus/*"
+          - '@docusaurus/*'
       eslint-packages:
         patterns:
-          - "eslint"
-          - "eslint-*"
-          - "@typescript-eslint/*"
+          - 'eslint'
+          - 'eslint-*'
+          - '@typescript-eslint/*'
 
-  - package-ecosystem: "github-actions"
-    directory: "/"
+  - package-ecosystem: 'github-actions'
+    directory: '/'
+    versioning-strategy: 'increase'
     schedule:
-      interval: "daily"
-    open-pull-requests-limit: 10
+      interval: 'monthly'

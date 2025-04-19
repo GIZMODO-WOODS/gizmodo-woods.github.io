@@ -8,8 +8,6 @@
 
 ## 日本語
 
-*English follows Japanese.
-
 ### ライセンス
 
 * 本リポジトリ内の[GIZMODO WOODSのウェブサイト](https://gizmodo-woods.github.io/)に関連するコンテンツは、[Keleops AG](https://www.keleops.com/en/)、[GIZMODO USA LLC](https://gizmodo.com/about-gizmodo-4303)、若しくは[株式会社メディアジーン](https://www.mediagene.co.jp/)、またはその他第三者に著作権、商標権、その他の知的財産権が帰属する場合を**除き**、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)の下でライセンスされています。
@@ -19,7 +17,7 @@
 
 ### 貢献ガイド
 
-[こちら](.github/CONTRIBUTING.md)を参照してください。
+[こちら](.github/CONTRIBUTING)を参照してください。
 
 ## English
 
@@ -32,7 +30,7 @@
 
 ### Contributing Guide
 
-Please refer to [the page](.github/CONTRIBUTING.md).
+Please refer to [the page](.github/CONTRIBUTING).
 
 ## Docusaurus
 
