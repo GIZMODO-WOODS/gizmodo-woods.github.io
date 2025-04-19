@@ -103,7 +103,7 @@ const config = {
       title: 'GIZMODO WOODS',
       logo: {
         alt: 'GIZMODO WOODS Logo',
-        src: 'img/GIZMODO-WOODS.webp',
+        src: 'img/gizmodo-woods.webp',
         height: '32px',
         width: '32px',
       },
