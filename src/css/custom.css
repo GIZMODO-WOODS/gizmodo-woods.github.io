@@ -1,3 +1,4 @@
+/* docusaurus全体のテーマ */
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
@@ -10,7 +11,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
@@ -22,6 +22,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* 本文などのコピー禁止、ボタン・リンク有効 */
 body * {
   user-select: none;
   -webkit-user-select: none;
@@ -46,7 +47,7 @@ a, button {
   touch-action: auto !important;
 }
 
-/* faq */
+/* faqのリンクの表示 */
 .qa-faq {
   color: #ADD8E6;
   text-decoration: none;
@@ -82,11 +83,11 @@ a, button {
 }
 
 .navbar-Discord::before {
-  top: 4px;
+  top: 6px;
 }
 
 .footer-Discord::before {
-  top: 6px;
+  top: 7px;
 }
 
 .footer-GitHub::before {
