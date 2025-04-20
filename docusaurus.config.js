@@ -95,7 +95,16 @@ const config = {
       ],
       "foundingDate": "2020-09-11",
     }),
+    sitemapPages: [
+      { loc: '/', priority: 1.0 },
+      { loc: '/about-us', priority: 0.9 },
+      { loc: '/tutorial/join', priority: 0.8 },
+      { loc: '/tutorial/inquiry/faq', priority: 0.7 },
+      { loc: '/blog', priority: 0.6 },
+    ],
   },
+
+  
 
   themeConfig: {
     image: 'img/gizmodo-woods-social-card.webp',
@@ -187,6 +196,20 @@ const config = {
           label: 'ブログ',
           to: 'blog',
           position: 'left',
+          items: [
+            {
+              label: 'ブログ',
+              to: 'blog',
+            },
+            {
+              label: '著者一覧',
+              to: '/blog/authors',
+            },
+            {
+              label: 'タグ一覧',
+              to: '/blog/tags',
+            },
+          ],
         },
         {
           label: 'サイトマップ',

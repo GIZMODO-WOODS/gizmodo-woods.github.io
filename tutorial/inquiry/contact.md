@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # お問い合わせ
 
-本サイトについて、またはDiscordサーバー「GIZMODO WOODS」についてわからない点がある場合は、お気軽にお問合せください。
+本サイトまたはGIZMODO WOODSについてわからない点がある場合は、お気軽にお問合せください。
 
 ## チケット作成
 
@@ -19,7 +19,7 @@ sidebar_position: 2
 |GIZMODO WOODS以外のDiscordサーバー/コミュニティ|各Discordサーバー/コミュニティの窓口|
 |Discordの不具合・トラブルなど|Discordの[ヘルプセンター](https://support.discord.com/hc/ja)や[サポートのリクエスト](https://support.discord.com/hc/ja/requests/new)|
 
-1. テキストチャンネル「質問・要望等はこちら！」[ [Web](https://discord.com/channels/753903663298117694/1114363410310774814) / [App](discord://discord.com/channels/753903663298117694/1114363410310774814) ]を開く
+1. テキストチャンネル[質問・要望等はこちら！](/tutorial/channel-list#%E8%B3%AA%E5%95%8F%E8%A6%81%E6%9C%9B%E7%AD%89%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89--web--app-)を開く
 
 2. 「お問い合わせはこちら」をクリック/タップ
 
