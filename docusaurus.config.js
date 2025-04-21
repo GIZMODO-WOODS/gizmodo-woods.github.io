@@ -172,6 +172,25 @@ const config = {
               to: 'tutorial/category/お問い合わせ',
             },
           ],
+        },        
+        {
+          label: 'ブログ',
+          to: 'blog',
+          position: 'left',
+          items: [
+            {
+              label: 'ブログ',
+              to: 'blog',
+            },
+            {
+              label: '著者一覧',
+              to: '/blog/authors',
+            },
+            {
+              label: 'タグ一覧',
+              to: '/blog/tags',
+            },
+          ],
         },
         {
           label: 'お問い合わせ',
@@ -189,25 +208,6 @@ const config = {
             {
               label: 'お問い合わせ',
               to: '/tutorial/inquiry/contact',
-            },
-          ],
-        },
-        {
-          label: 'ブログ',
-          to: 'blog',
-          position: 'left',
-          items: [
-            {
-              label: 'ブログ',
-              to: 'blog',
-            },
-            {
-              label: '著者一覧',
-              to: '/blog/authors',
-            },
-            {
-              label: 'タグ一覧',
-              to: '/blog/tags',
             },
           ],
         },
