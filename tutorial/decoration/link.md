@@ -19,13 +19,13 @@ import TabItem from '@theme/TabItem';
 URL を`< >`で囲むと URL のプレビューが出なくなります。
 
 <img src={require("./img/hide-preview.webp").default}
-style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
+style={{height:'400px', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
   </TabItem>
   <TabItem value="embeded" label="埋め込み">
 `[テキスト](URL)`で埋め込めます。  
 [リンクのプレビューを隠す](/tutorial/decoration/hide-preview)などと組み合わせられます。
 
 <img src={require("./img/embedded-url.webp").default}
-style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
+style={{height:'400px', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
   </TabItem>
 </Tabs>

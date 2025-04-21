@@ -17,6 +17,6 @@ import TabItem from '@theme/TabItem';
 添付後、目のマークをクリックするか、添付したものをタップして「スポイラーとしてマークする」をタップすると隠せます。
 
 <img src={require("./img/spoiler-image.webp").default}
-     style={{height:'auto', width:'80%', display:'block', margin:'auto', marginBottom:'10px'}} />
+     style={{height:'400px', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
   </TabItem>
 </Tabs>

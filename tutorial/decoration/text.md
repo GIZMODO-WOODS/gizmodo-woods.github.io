@@ -24,7 +24,7 @@ import TabItem from '@theme/TabItem';
     borderRight: '2px solid #000', 
     paddingRight: '10px', 
     marginRight: '10px', 
-    marginTop: '20px' // 指定したpx分下げる
+    marginTop: '20px'
   }}>
     ```markdown
     -# こんにちは  

@@ -27,7 +27,7 @@ sidebar_position: 1
    スマホ版：下にスクロールし、「全てのチャンネルを表示」を有効化
 
 <img src={require("./img/show-all-channels.webp").default}
-style={{height:'300px', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
+style={{height:'400px', width:'auto', display:'block', margin:'auto', marginBottom:'10px'}} />
 
 :::info 表示をやめたい場合
 
