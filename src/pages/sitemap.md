@@ -13,8 +13,8 @@
   </tr>
   <tr>
     <td>GIZMODO WOODS</td>
-    <td><a href="https://discord.gg/gizmodo" rel="noopener"><img src="img/Discord.webp" alt="Discord" style={{height: '32px', width: 'auto', verticalAlign: 'middle'}} /></a></td>
-    <td><a href="https://github.com/GIZMODO-WOODS" rel="noopener"><img src="img/GitHub.webp" alt="GitHub" style={{height: '32px', width: 'auto', verticalAlign: 'middle'}} /></a></td>
+    <td><a href="https://discord.gg/gizmodo" rel="noopener"><img src="img/Discord.webp" alt="Discord" style={{height: 'auto', width: '32px', verticalAlign: 'middle'}} /></a></td>
+    <td><a href="https://github.com/GIZMODO-WOODS" rel="noopener"><img src="img/GitHub.webp" alt="GitHub" style={{height: 'auto', width: '32px', verticalAlign: 'middle'}} /></a></td>
   </tr>
   <tr>
     <td></td>
@@ -138,12 +138,12 @@
   </tr>
   <tr>
     <td>ギズモード・ジャパン</td>
-    <td><a href="https://www.gizmodo.jp/" rel="noopener"><img src="img/GIZMODO.webp" alt="ホームページ" style={{height: '32px', width: 'auto', verticalAlign: 'middle'}} /></a>　<a href="https://twitter.com/gizmodojapan" rel="noopener"><img src="img/X.webp" alt="X（旧Twitter）" style={{height: '32px', width: 'auto', verticalAlign: 'middle'}} /></a></td>
-    <td><a href="https://www.tiktok.com/@gizmodojapan" rel="noopener"><img src="img/TikTok.webp" alt="TikTok" style={{height: '32px', width: 'auto', verticalAlign: 'middle'}} /></a>　<a href="https://www.youtube.com/user/gizmodojapan" rel="noopener"><img src="img/YouTube.webp" alt="YouTube" style={{height: '32px', width: 'auto', verticalAlign: 'middle'}} /></a></td>
+    <td><a href="https://www.gizmodo.jp/" rel="noopener"><img src="img/GIZMODO.webp" alt="ホームページ" style={{height: 'auto', width: '32px', verticalAlign: 'middle'}} /></a>　<a href="https://twitter.com/gizmodojapan" rel="noopener"><img src="img/X.webp" alt="X（旧Twitter）" style={{height: 'auto', width: '32px', verticalAlign: 'middle'}} /></a></td>
+    <td><a href="https://www.tiktok.com/@gizmodojapan" rel="noopener"><img src="img/TikTok.webp" alt="TikTok" style={{height: 'auto', width: '32px', verticalAlign: 'middle'}} /></a>　<a href="https://www.youtube.com/user/gizmodojapan" rel="noopener"><img src="img/YouTube.webp" alt="YouTube" style={{height: 'auto', width: '32px', verticalAlign: 'middle'}} /></a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://www.threads.net/@gizmodo_japan" rel="noopener"><img src="img/Threads.webp" alt="Threads" style={{height: '32px', width: 'auto', verticalAlign: 'middle'}} /></a>　<a href="https://www.facebook.com/gizmodojp" rel="noopener"><img src="img/Facebook.webp" alt="Facebook" style={{height: '32px', width: 'auto', verticalAlign: 'middle'}} /></a></td>
-    <td><a href="https://www.instagram.com/gizmodo_japan" rel="noopener"><img src="img/Instagram.webp" alt="Instagram" style={{height: '32px', width: 'auto', verticalAlign: 'middle'}} /></a>　<a href="https://bsky.app/profile/gizmodojapan.bsky.social" rel="noopener"><img src="img/Bluesky.webp" alt="Bluesky" style={{height: '32px', width: 'auto', verticalAlign: 'middle'}} /></a></td>
+    <td><a href="https://www.threads.net/@gizmodo_japan" rel="noopener"><img src="img/Threads.webp" alt="Threads" style={{height: 'auto', width: '32px', verticalAlign: 'middle'}} /></a>　<a href="https://www.facebook.com/gizmodojp" rel="noopener"><img src="img/Facebook.webp" alt="Facebook" style={{height: 'auto', width: '32px', verticalAlign: 'middle'}} /></a></td>
+    <td><a href="https://www.instagram.com/gizmodo_japan" rel="noopener"><img src="img/Instagram.webp" alt="Instagram" style={{height: 'auto', width: '32px', verticalAlign: 'middle'}} /></a>　<a href="https://bsky.app/profile/gizmodojapan.bsky.social" rel="noopener"><img src="img/Bluesky.webp" alt="Bluesky" style={{height: 'auto', width: '32px', verticalAlign: 'middle'}} /></a></td>
   </tr>
 </table>
