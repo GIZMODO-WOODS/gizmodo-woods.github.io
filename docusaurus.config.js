@@ -95,13 +95,6 @@ const config = {
       ],
       "foundingDate": "2020-09-11",
     }),
-    sitemapPages: [
-      { loc: '/', priority: 1.0 },
-      { loc: '/about-us', priority: 0.9 },
-      { loc: '/tutorial/join', priority: 0.8 },
-      { loc: '/tutorial/inquiry/faq', priority: 0.7 },
-      { loc: '/blog', priority: 0.6 },
-    ],
   },
 
   
