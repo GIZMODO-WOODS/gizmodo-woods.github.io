@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgizmodo_woods_github_io=self.webpackChunkgizmodo_woods_github_io||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"\u30d6\u30ed\u30b0","authorsListPath":"/blog/authors"}')}}]);

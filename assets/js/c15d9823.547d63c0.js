@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgizmodo_woods_github_io=self.webpackChunkgizmodo_woods_github_io||[]).push([[8146],{9328:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"\u30d6\u30ed\u30b0"}}')}}]);

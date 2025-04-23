@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgizmodo_woods_github_io=self.webpackChunkgizmodo_woods_github_io||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"\u6700\u8fd1\u306e\u6295\u7a3f","items":[{"title":"\u6e96\u5099\u4e2d","permalink":"/blog/standby","unlisted":false,"date":"2025-05-05T00:00:00.000Z"}]}')}}]);
