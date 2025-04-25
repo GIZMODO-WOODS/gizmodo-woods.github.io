@@ -10,9 +10,8 @@ const pages = [
   { loc: '/', priority: 1.0 },
   { loc: '/about-us', priority: 0.9 },
   { loc: '/tutorial/join', priority: 0.8 },
-  { loc: '/blog', priority: 0.7 },
-  { loc: '/tutorial/inquiry/faq', priority: 0.6 },
-  { loc: '/sitemap', priority: 0.5 },
+  { loc: '/tutorial/inquiry/faq', priority: 0.7 },
+  { loc: '/sitemap', priority: 0.6 },
 ];
 
 // sitemap.xml 本体作成
