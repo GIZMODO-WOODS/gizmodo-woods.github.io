@@ -36,26 +36,7 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-          blogSidebarCount: 'ALL',
-          postsPerPage: 10,
-          blogTitle: 'ブログ',
-          blogSidebarTitle: '最近の投稿',
-          readingTime: ({content, frontMatter, defaultReadingTime}) =>
-            defaultReadingTime({content, options: {wordsPerMinute: 350}}),
-          feedOptions: {
-            type: 'all',
-            title: 'GIZMODO WOODS ブログ',
-            description: 'GIZMODO WOODSモデレーターチームのブログ',
-            language: 'ja',
-            copyright: `Copyright © 2023-${new Date().getFullYear()} GIZMODO WOODS.`,
-          },
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
+          editUrl: 'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
       }),
     ],
   ],
@@ -167,25 +148,6 @@ const config = {
           ],
         },        
         {
-          label: 'ブログ',
-          to: 'blog',
-          position: 'left',
-          items: [
-            {
-              label: 'ブログ',
-              to: 'blog',
-            },
-            {
-              label: '著者一覧',
-              to: '/blog/authors',
-            },
-            {
-              label: 'タグ一覧',
-              to: '/blog/tags',
-            },
-          ],
-        },
-        {
           label: 'お問い合わせ',
           to: '/tutorial/inquiry/faq',
           position: 'left',
@@ -240,11 +202,6 @@ const config = {
             {
               label: 'FAQ',
               to: 'tutorial/inquiry/faq',
-            },
-            {
-              label: 'ブログ',
-              to: 'blog',
-              position: 'left',
             },
             {
               label: 'サイトマップ',
