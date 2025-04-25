@@ -25,18 +25,19 @@ const config = {
 
   presets: [
     [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: {
-          path: 'tutorial',
-          routeBasePath: 'tutorial',
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
+    'classic',
+    /** @type {import('@docusaurus/preset-classic').Options} */
+    ({
+      docs: {
+        path: 'tutorial',
+        routeBasePath: 'tutorial',
+        sidebarPath: require.resolve('./sidebars.js'),
+        editUrl: 'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
+      },
+      blog: {
+        showReadingTime: true,
+        editUrl: 'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
         },
-        blog: {
-          showReadingTime: true,
-          editUrl: 'https://github.com/GIZMODO-WOODS/gizmodo-woods.github.io/blob/main/',
       }),
     ],
   ],
