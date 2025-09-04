@@ -23,7 +23,7 @@
     "clsx": "^1.2.1",
     "glob": "^11.0.1",
     "inflight": "^1.0.6",
-    "lru-cache": "^11.0.2",
+    "lru-cache": "^11.2.1",
     "prism-react-renderer": "^2.4.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
