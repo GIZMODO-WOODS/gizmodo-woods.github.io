@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkgizmodo_woods_github_io=globalThis.webpackChunkgizmodo_woods_github_io||[]).push([[4921],{1597(o){o.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);
